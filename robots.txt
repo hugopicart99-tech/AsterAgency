@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /fr/merci
+Disallow: /thank-you
+
+Sitemap: https://aster.netlify.app/sitemap.xml

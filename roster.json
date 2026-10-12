@@ -1,0 +1,10802 @@
+{
+ "_lisezmoi": "ROSTER FRANCE. Remplissez pour chaque talent : name (nom affiché, sinon le pseudo est utilisé), languages, platforms[].followers (nombre), engagement (%), categories (fr/en), sectors (ecommerce | hospitality | crypto-fintech). Les champs vides s'affichent « à compléter » ; un talent sans secteur n'apparaît pas sur les pages secteurs. Aucun tarif n'est affiché. Optionnel : platforms[].engagement (%), platforms[].url ; audience { source, <plateforme> : { credibility, followers|engaged : { female, male, agePeak, countries [[ISO, %]], languages [[code, %]], interests { fr|en : [[libellé, %]] } } } } — voir @marinebernacki comme modèle ; ajoute un bouton « Voir le profil ». Règle : ne jamais ajouter de chaîne YouTube ni de compte Snapchat pour les talents.",
+ "talents": [
+  {
+   "id": "fr-01",
+   "sample": false,
+   "name": "Marine Bernacki",
+   "handle": "@marinebernacki",
+   "instagram": "https://www.instagram.com/marinebernacki/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 105000,
+     "engagement": 4.73
+    },
+    {
+     "id": "tiktok",
+     "followers": 115000,
+     "engagement": 15,
+     "url": "https://www.tiktok.com/@marinebernacki"
+    }
+   ],
+   "engagement": 4.73,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Sport & fitness",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Sport & fitness",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 75.2,
+     "followers": {
+      "female": 38.6,
+      "male": 61.4,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        66.9
+       ],
+       [
+        "MA",
+        12.1
+       ],
+       [
+        "BE",
+        2.54
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        76.2
+       ],
+       [
+        "en",
+        13.2
+       ],
+       [
+        "ar",
+        5.99
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         71
+        ],
+        [
+         "Mode",
+         46.1
+        ],
+        [
+         "Amis & famille",
+         39
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         71
+        ],
+        [
+         "Fashion",
+         46.1
+        ],
+        [
+         "Friends & family",
+         39
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 85.6,
+      "male": 14.4,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        82.1
+       ],
+       [
+        "BE",
+        6.72
+       ],
+       [
+        "ES",
+        1.65
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        92.7
+       ],
+       [
+        "en",
+        6.04
+       ],
+       [
+        "pt",
+        0.25
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         54.5
+        ],
+        [
+         "Amis & famille",
+         50.4
+        ],
+        [
+         "Mode",
+         50.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         54.5
+        ],
+        [
+         "Friends & family",
+         50.4
+        ],
+        [
+         "Fashion",
+         50.2
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 71.7,
+      "male": 28.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        84
+       ],
+       [
+        "BE",
+        10
+       ],
+       [
+        "CH",
+        0.96
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        97
+       ],
+       [
+        "en",
+        1.66
+       ],
+       [
+        "es",
+        0.25
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-02",
+   "sample": false,
+   "name": "Pierre de la Housse",
+   "handle": "@pierredelahousse",
+   "instagram": "https://www.instagram.com/pierredelahousse/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 491000,
+     "engagement": 4.95
+    },
+    {
+     "id": "tiktok",
+     "followers": 366000,
+     "handle": "@pierre2lahousse",
+     "url": "https://www.tiktok.com/@pierre2lahousse",
+     "engagement": 9.22
+    }
+   ],
+   "engagement": 4.95,
+   "categories": {
+    "fr": [
+     "Humour",
+     "Musique",
+     "Sport"
+    ],
+    "en": [
+     "Comedy",
+     "Music",
+     "Sport"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 86.8,
+     "followers": {
+      "female": 55.8,
+      "male": 44.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        88.8
+       ],
+       [
+        "ES",
+        1.64
+       ],
+       [
+        "US",
+        1.64
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        91
+       ],
+       [
+        "en",
+        6.76
+       ],
+       [
+        "es",
+        0.83
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         35.8
+        ],
+        [
+         "Amis & famille",
+         30.4
+        ],
+        [
+         "Voyage",
+         29.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         35.8
+        ],
+        [
+         "Friends & family",
+         30.4
+        ],
+        [
+         "Travel",
+         29.2
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 58.4,
+      "male": 41.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        85
+       ],
+       [
+        "BE",
+        2.47
+       ],
+       [
+        "US",
+        1.71
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.6
+       ],
+       [
+        "en",
+        9.28
+       ],
+       [
+        "es",
+        0.23
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Voyage",
+         39.5
+        ],
+        [
+         "Photo & vidéo",
+         38.8
+        ],
+        [
+         "Sport & fitness",
+         38.7
+        ]
+       ],
+       "en": [
+        [
+         "Travel",
+         39.5
+        ],
+        [
+         "Camera & photography",
+         38.8
+        ],
+        [
+         "Sport & fitness",
+         38.7
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 55.9,
+      "male": 44.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        87.7
+       ],
+       [
+        "BE",
+        5.23
+       ],
+       [
+        "CA",
+        1.74
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94.2
+       ],
+       [
+        "en",
+        5.4
+       ],
+       [
+        "es",
+        0.14
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-03",
+   "sample": false,
+   "name": "Manel",
+   "handle": "@manellejne",
+   "instagram": "https://www.instagram.com/manellejne/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 342000,
+     "engagement": 4.39
+    },
+    {
+     "id": "tiktok",
+     "followers": 1300000,
+     "handle": "@manellejneee",
+     "url": "https://www.tiktok.com/@manellejneee",
+     "engagement": 3.41
+    }
+   ],
+   "engagement": 4.39,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Lifestyle",
+     "Entrepreneuriat"
+    ],
+    "en": [
+     "Fashion",
+     "Lifestyle",
+     "Entrepreneurship"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 71.7,
+     "followers": {
+      "female": 81,
+      "male": 19,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        68.5
+       ],
+       [
+        "MA",
+        7.38
+       ],
+       [
+        "DZ",
+        3.97
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        84.7
+       ],
+       [
+        "en",
+        8.96
+       ],
+       [
+        "ar",
+        2.87
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         31.9
+        ],
+        [
+         "Amis & famille",
+         21.8
+        ],
+        [
+         "Sport & fitness",
+         21.3
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         31.9
+        ],
+        [
+         "Friends & family",
+         21.8
+        ],
+        [
+         "Sport & fitness",
+         21.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 86.7,
+      "male": 13.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        72.8
+       ],
+       [
+        "BE",
+        4.47
+       ],
+       [
+        "MA",
+        3.45
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        84.2
+       ],
+       [
+        "en",
+        11.7
+       ],
+       [
+        "it",
+        0.9
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         44.2
+        ],
+        [
+         "Photo & vidéo",
+         29.6
+        ],
+        [
+         "Amis & famille",
+         27.7
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         44.2
+        ],
+        [
+         "Camera & photography",
+         29.6
+        ],
+        [
+         "Friends & family",
+         27.7
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 68.8,
+      "male": 31.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        64.3
+       ],
+       [
+        "BE",
+        3.78
+       ],
+       [
+        "MA",
+        3.72
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.4
+       ],
+       [
+        "en",
+        5.42
+       ],
+       [
+        "pt",
+        1.62
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-04",
+   "sample": false,
+   "name": "",
+   "handle": "@carlavva",
+   "instagram": "https://www.instagram.com/carlavva/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 119000,
+     "engagement": 4.02
+    },
+    {
+     "id": "tiktok",
+     "followers": 112000,
+     "engagement": 4.37,
+     "handle": "@carlavva",
+     "url": "https://www.tiktok.com/@carlavva"
+    }
+   ],
+   "engagement": 4.02,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Danse",
+     "Voyage",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Dance",
+     "Travel",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 71,
+     "followers": {
+      "female": 70.5,
+      "male": 29.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        71.8
+       ],
+       [
+        "US",
+        2.72
+       ],
+       [
+        "BE",
+        2.7
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        73.9
+       ],
+       [
+        "en",
+        17.2
+       ],
+       [
+        "es",
+        1.84
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         40.2
+        ],
+        [
+         "Voyage",
+         33.8
+        ],
+        [
+         "Sport & fitness",
+         33
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         40.2
+        ],
+        [
+         "Travel",
+         33.8
+        ],
+        [
+         "Sport & fitness",
+         33
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 87.8,
+      "male": 12.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        86
+       ],
+       [
+        "BE",
+        2.81
+       ],
+       [
+        "ES",
+        1.98
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.6
+       ],
+       [
+        "en",
+        8.21
+       ],
+       [
+        "it",
+        0.66
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         46.2
+        ],
+        [
+         "Voyage",
+         40.6
+        ],
+        [
+         "Amis & famille",
+         36.8
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         46.2
+        ],
+        [
+         "Travel",
+         40.6
+        ],
+        [
+         "Friends & family",
+         36.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 85,
+      "male": 15,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        84.9
+       ],
+       [
+        "BE",
+        5.04
+       ],
+       [
+        "MA",
+        1.32
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        92.4
+       ],
+       [
+        "en",
+        4.9
+       ],
+       [
+        "es",
+        0.64
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-05",
+   "sample": false,
+   "name": "Vercin Rap",
+   "handle": "@vercinrap",
+   "instagram": "https://www.instagram.com/vercinrap/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 281000,
+     "engagement": 3.36
+    },
+    {
+     "id": "tiktok",
+     "followers": 693000,
+     "engagement": 5.58,
+     "handle": "@vercinrap",
+     "url": "https://www.tiktok.com/@vercinrap"
+    }
+   ],
+   "engagement": 3.36,
+   "categories": {
+    "fr": [
+     "Humour",
+     "Musique",
+     "Famille"
+    ],
+    "en": [
+     "Comedy",
+     "Music",
+     "Family"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 80.7,
+     "followers": {
+      "female": 42.2,
+      "male": 57.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        77.5
+       ],
+       [
+        "BE",
+        4.28
+       ],
+       [
+        "US",
+        2.74
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        88.8
+       ],
+       [
+        "en",
+        8.09
+       ],
+       [
+        "es",
+        0.83
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "TV & cinéma",
+         39.4
+        ],
+        [
+         "Sport & fitness",
+         31.9
+        ],
+        [
+         "Jouets & enfants",
+         29.8
+        ]
+       ],
+       "en": [
+        [
+         "TV & film",
+         39.4
+        ],
+        [
+         "Sport & fitness",
+         31.9
+        ],
+        [
+         "Toys & children",
+         29.8
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 70.5,
+      "male": 29.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        84.7
+       ],
+       [
+        "BE",
+        4.49
+       ],
+       [
+        "CH",
+        1.81
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94
+       ],
+       [
+        "en",
+        5.23
+       ],
+       [
+        "it",
+        0.22
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "TV & cinéma",
+         40.8
+        ],
+        [
+         "Jouets & enfants",
+         36.7
+        ],
+        [
+         "Amis & famille",
+         35.4
+        ]
+       ],
+       "en": [
+        [
+         "TV & film",
+         40.8
+        ],
+        [
+         "Toys & children",
+         36.7
+        ],
+        [
+         "Friends & family",
+         35.4
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 50,
+      "male": 50,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        80.7
+       ],
+       [
+        "BE",
+        6
+       ],
+       [
+        "CA",
+        4.44
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        96
+       ],
+       [
+        "en",
+        3.28
+       ],
+       [
+        "es",
+        0.16
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-06",
+   "sample": false,
+   "name": "Hanae Nice",
+   "handle": "@hanaenice_",
+   "instagram": "https://www.instagram.com/hanaenice_/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "ar"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1120000,
+     "engagement": 2.64
+    },
+    {
+     "id": "tiktok",
+     "followers": 4200000,
+     "engagement": 1.41,
+     "handle": "@hanaeniceee",
+     "url": "https://www.tiktok.com/@hanaeniceee"
+    }
+   ],
+   "engagement": 2.64,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 69,
+     "followers": {
+      "female": 58.9,
+      "male": 41.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        29.5
+       ],
+       [
+        "MA",
+        17.7
+       ],
+       [
+        "DZ",
+        8.85
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        45.3
+       ],
+       [
+        "en",
+        21.5
+       ],
+       [
+        "ar",
+        16.2
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         40.1
+        ],
+        [
+         "Mode",
+         34.6
+        ],
+        [
+         "Voyage",
+         24.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         40.1
+        ],
+        [
+         "Fashion",
+         34.6
+        ],
+        [
+         "Travel",
+         24.7
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 75.7,
+      "male": 24.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        41
+       ],
+       [
+        "MA",
+        7.19
+       ],
+       [
+        "US",
+        5.63
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        49
+       ],
+       [
+        "en",
+        25.5
+       ],
+       [
+        "es",
+        4.96
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         46.5
+        ],
+        [
+         "Sport & fitness",
+         39
+        ],
+        [
+         "Photo & vidéo",
+         31.7
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         46.5
+        ],
+        [
+         "Sport & fitness",
+         39
+        ],
+        [
+         "Camera & photography",
+         31.7
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 61.7,
+      "male": 38.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        29.4
+       ],
+       [
+        "MA",
+        14.5
+       ],
+       [
+        "DZ",
+        8.02
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        67.2
+       ],
+       [
+        "en",
+        11.9
+       ],
+       [
+        "ar",
+        10.3
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-07",
+   "sample": false,
+   "name": "Marie Bouaziz",
+   "handle": "@mariebouaziz",
+   "instagram": "https://www.instagram.com/mariebouaziz/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "en"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 74300,
+     "engagement": 2.55
+    },
+    {
+     "id": "tiktok",
+     "followers": 214000,
+     "engagement": 5.17,
+     "handle": "@mariebouazizzz",
+     "url": "https://www.tiktok.com/@mariebouazizzz"
+    }
+   ],
+   "engagement": 2.55,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Voyage"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Travel"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 92.7,
+     "followers": {
+      "female": 56.8,
+      "male": 43.2,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        79.4
+       ],
+       [
+        "FR",
+        11.1
+       ],
+       [
+        "BS",
+        0.96
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        85.6
+       ],
+       [
+        "fr",
+        9.67
+       ],
+       [
+        "es",
+        3.02
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         33.2
+        ],
+        [
+         "Sport & fitness",
+         32.7
+        ],
+        [
+         "Musique",
+         25.1
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         33.2
+        ],
+        [
+         "Sport & fitness",
+         32.7
+        ],
+        [
+         "Music",
+         25.1
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 89.3,
+      "male": 10.7,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        76.9
+       ],
+       [
+        "US",
+        4.61
+       ],
+       [
+        "BE",
+        2.75
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        81.1
+       ],
+       [
+        "en",
+        16.3
+       ],
+       [
+        "es",
+        0.65
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         45.2
+        ],
+        [
+         "Voyage",
+         36.7
+        ],
+        [
+         "Amis & famille",
+         34.8
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         45.2
+        ],
+        [
+         "Travel",
+         36.7
+        ],
+        [
+         "Friends & family",
+         34.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 87.9,
+      "male": 12.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        57.6
+       ],
+       [
+        "US",
+        11.5
+       ],
+       [
+        "CA",
+        4.12
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        67.5
+       ],
+       [
+        "en",
+        24.8
+       ],
+       [
+        "es",
+        2.34
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-08",
+   "sample": false,
+   "name": "Matteo Larzize",
+   "handle": "@larzizematteo",
+   "instagram": "https://www.instagram.com/larzizematteo/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 473000,
+     "engagement": 1.38
+    },
+    {
+     "id": "tiktok",
+     "followers": 3300000,
+     "engagement": 1.02,
+     "handle": "@larzizematteo",
+     "url": "https://www.tiktok.com/@larzizematteo"
+    }
+   ],
+   "engagement": 1.38,
+   "categories": {
+    "fr": [
+     "Lifestyle",
+     "Mode",
+     "Sport & fitness"
+    ],
+    "en": [
+     "Lifestyle",
+     "Fashion",
+     "Sport & fitness"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 87.9,
+     "followers": {
+      "female": 80.5,
+      "male": 19.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        86.2
+       ],
+       [
+        "BE",
+        4.08
+       ],
+       [
+        "CH",
+        1.23
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        92.2
+       ],
+       [
+        "en",
+        5.55
+       ],
+       [
+        "es",
+        0.64
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         27
+        ],
+        [
+         "Sport & fitness",
+         24.4
+        ],
+        [
+         "Amis & famille",
+         21.3
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         27
+        ],
+        [
+         "Sport & fitness",
+         24.4
+        ],
+        [
+         "Friends & family",
+         21.3
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 57.8,
+      "male": 42.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        72.2
+       ],
+       [
+        "BE",
+        4.68
+       ],
+       [
+        "CA",
+        2.78
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        87.4
+       ],
+       [
+        "en",
+        4.7
+       ],
+       [
+        "es",
+        1.69
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-09",
+   "sample": false,
+   "name": "Kiara Amato",
+   "handle": "@kiara.amt",
+   "instagram": "https://www.instagram.com/kiara.amt/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 605000,
+     "engagement": 0.88
+    },
+    {
+     "id": "tiktok",
+     "followers": 1700000,
+     "engagement": 0.5,
+     "handle": "@kiara.amt",
+     "url": "https://www.tiktok.com/@kiara.amt"
+    }
+   ],
+   "engagement": 0.88,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 77.2,
+     "followers": {
+      "female": 76.8,
+      "male": 23.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        70.9
+       ],
+       [
+        "BE",
+        4.05
+       ],
+       [
+        "US",
+        2.83
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        77.8
+       ],
+       [
+        "en",
+        13.1
+       ],
+       [
+        "es",
+        2.56
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         31.5
+        ],
+        [
+         "Amis & famille",
+         26.6
+        ],
+        [
+         "Sport & fitness",
+         25.5
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         31.5
+        ],
+        [
+         "Friends & family",
+         26.6
+        ],
+        [
+         "Sport & fitness",
+         25.5
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 85.2,
+      "male": 14.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        80
+       ],
+       [
+        "BE",
+        2.72
+       ],
+       [
+        "ES",
+        1.99
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        82.5
+       ],
+       [
+        "en",
+        12.2
+       ],
+       [
+        "es",
+        1.47
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         39.2
+        ],
+        [
+         "Sport & fitness",
+         28.1
+        ],
+        [
+         "Photo & vidéo",
+         26.1
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         39.2
+        ],
+        [
+         "Sport & fitness",
+         28.1
+        ],
+        [
+         "Camera & photography",
+         26.1
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 86,
+      "male": 14,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        75.1
+       ],
+       [
+        "BE",
+        5.21
+       ],
+       [
+        "CH",
+        1.75
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        84
+       ],
+       [
+        "en",
+        7.07
+       ],
+       [
+        "es",
+        2.24
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-11",
+   "sample": false,
+   "name": "Aimie Perino",
+   "handle": "@aimie_perino",
+   "instagram": "https://www.instagram.com/aimie_perino/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 610000,
+     "engagement": 2.37
+    },
+    {
+     "id": "tiktok",
+     "followers": 1400000,
+     "engagement": 2.48,
+     "handle": "@aimie_perino",
+     "url": "https://www.tiktok.com/@aimie_perino"
+    }
+   ],
+   "engagement": 2.37,
+   "categories": {
+    "fr": [
+     "Lifestyle",
+     "Beauté",
+     "Sport & fitness"
+    ],
+    "en": [
+     "Lifestyle",
+     "Beauty",
+     "Sport & fitness"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 85.4,
+     "followers": {
+      "female": 58.4,
+      "male": 41.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        71.2
+       ],
+       [
+        "US",
+        13.3
+       ],
+       [
+        "CA",
+        4.13
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        80.8
+       ],
+       [
+        "en",
+        17.3
+       ],
+       [
+        "es",
+        0.64
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         34.1
+        ],
+        [
+         "Amis & famille",
+         28
+        ],
+        [
+         "Jouets & enfants",
+         27.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         34.1
+        ],
+        [
+         "Friends & family",
+         28
+        ],
+        [
+         "Toys & children",
+         27.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 69,
+      "male": 31,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        83.2
+       ],
+       [
+        "BE",
+        3.19
+       ],
+       [
+        "US",
+        1.26
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.6
+       ],
+       [
+        "en",
+        7.41
+       ],
+       [
+        "es",
+        0.83
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         44.8
+        ],
+        [
+         "Photo & vidéo",
+         36.9
+        ],
+        [
+         "Mode",
+         36.9
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         44.8
+        ],
+        [
+         "Camera & photography",
+         36.9
+        ],
+        [
+         "Fashion",
+         36.9
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 54.7,
+      "male": 45.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        71.6
+       ],
+       [
+        "CA",
+        9.25
+       ],
+       [
+        "BE",
+        5.09
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.6
+       ],
+       [
+        "en",
+        8.19
+       ],
+       [
+        "es",
+        0.47
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-12",
+   "sample": false,
+   "name": "Doffy",
+   "handle": "@doffy_obs",
+   "instagram": "https://www.instagram.com/doffy_obs/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 130000,
+     "engagement": 6.77
+    }
+   ],
+   "engagement": 6.77,
+   "categories": {
+    "fr": [
+     "Musique",
+     "Mode",
+     "Photo"
+    ],
+    "en": [
+     "Music",
+     "Fashion",
+     "Photography"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 89.2,
+     "followers": {
+      "female": 43.7,
+      "male": 56.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        77.2
+       ],
+       [
+        "US",
+        2.66
+       ],
+       [
+        "BE",
+        2.07
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        81.6
+       ],
+       [
+        "en",
+        16
+       ],
+       [
+        "pt",
+        0.73
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Musique",
+         40
+        ],
+        [
+         "Photo & vidéo",
+         35.4
+        ],
+        [
+         "Mode",
+         33.3
+        ]
+       ],
+       "en": [
+        [
+         "Music",
+         40
+        ],
+        [
+         "Camera & photography",
+         35.4
+        ],
+        [
+         "Fashion",
+         33.3
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-13",
+   "sample": false,
+   "name": "Niro",
+   "handle": "@niro_compteofficiel",
+   "instagram": "https://www.instagram.com/niro_compteofficiel/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 811000,
+     "engagement": 0.63
+    }
+   ],
+   "engagement": 0.63,
+   "categories": {
+    "fr": [
+     "Musique",
+     "Rap",
+     "Lifestyle"
+    ],
+    "en": [
+     "Music",
+     "Rap",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 75.7,
+     "followers": {
+      "female": 25.4,
+      "male": 74.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        54.6
+       ],
+       [
+        "DZ",
+        6.63
+       ],
+       [
+        "MA",
+        6.19
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        87.4
+       ],
+       [
+        "en",
+        7.48
+       ],
+       [
+        "ar",
+        2.22
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         37.9
+        ],
+        [
+         "Mode",
+         30.3
+        ],
+        [
+         "Musique",
+         26.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         37.9
+        ],
+        [
+         "Fashion",
+         30.3
+        ],
+        [
+         "Music",
+         26.2
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 30.5,
+      "male": 69.5,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        68
+       ],
+       [
+        "MA",
+        4.65
+       ],
+       [
+        "DZ",
+        3.94
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        91.8
+       ],
+       [
+        "en",
+        5.79
+       ],
+       [
+        "ar",
+        0.6
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         45.4
+        ],
+        [
+         "Mode",
+         36.8
+        ],
+        [
+         "Musique",
+         28.9
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         45.4
+        ],
+        [
+         "Fashion",
+         36.8
+        ],
+        [
+         "Music",
+         28.9
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-14",
+   "sample": false,
+   "name": "Lamine Camara",
+   "handle": "@alka_92140",
+   "instagram": "https://www.instagram.com/alka_92140/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 637000,
+     "engagement": 7.87
+    },
+    {
+     "id": "tiktok",
+     "followers": 3500000,
+     "engagement": 9.51,
+     "handle": "@alka_92140",
+     "url": "https://www.tiktok.com/@alka_92140"
+    }
+   ],
+   "engagement": 7.87,
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Famille"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Family"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 78.3,
+     "followers": {
+      "female": 35.1,
+      "male": 64.9,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        40
+       ],
+       [
+        "SN",
+        36.7
+       ],
+       [
+        "CA",
+        2.22
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        79.4
+       ],
+       [
+        "en",
+        16.6
+       ],
+       [
+        "it",
+        1.13
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         38.1
+        ],
+        [
+         "Mode",
+         30.9
+        ],
+        [
+         "Photo & vidéo",
+         25.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         38.1
+        ],
+        [
+         "Fashion",
+         30.9
+        ],
+        [
+         "Camera & photography",
+         25.7
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 24.6,
+      "male": 75.4,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        45.2
+       ],
+       [
+        "SN",
+        29.8
+       ],
+       [
+        "BE",
+        2.42
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        80.7
+       ],
+       [
+        "en",
+        14.2
+       ],
+       [
+        "it",
+        1.3
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         37.3
+        ],
+        [
+         "Mode",
+         29.4
+        ],
+        [
+         "Photo & vidéo",
+         26.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         37.3
+        ],
+        [
+         "Fashion",
+         29.4
+        ],
+        [
+         "Camera & photography",
+         26.2
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 48.3,
+      "male": 51.7,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        46.3
+       ],
+       [
+        "SN",
+        19.2
+       ],
+       [
+        "CI",
+        5.29
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        93.6
+       ],
+       [
+        "en",
+        4.15
+       ],
+       [
+        "es",
+        0.58
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-15",
+   "sample": false,
+   "name": "Stency Vgd",
+   "handle": "@stenncyy",
+   "instagram": "https://www.instagram.com/stenncyy/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 138000,
+     "engagement": 2.83
+    },
+    {
+     "id": "tiktok",
+     "followers": 637000,
+     "engagement": 2.18,
+     "handle": "@stenncyyy",
+     "url": "https://www.tiktok.com/@stenncyyy"
+    }
+   ],
+   "engagement": 2.83,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 72.7,
+     "followers": {
+      "female": 71.9,
+      "male": 28.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        57.8
+       ],
+       [
+        "CI",
+        6.52
+       ],
+       [
+        "SN",
+        4.77
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        82.2
+       ],
+       [
+        "en",
+        13.2
+       ],
+       [
+        "pt",
+        1.44
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         37.8
+        ],
+        [
+         "Beauté",
+         24.5
+        ],
+        [
+         "Photo & vidéo",
+         22.9
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         37.8
+        ],
+        [
+         "Beauty",
+         24.5
+        ],
+        [
+         "Camera & photography",
+         22.9
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 79.4,
+      "male": 20.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        65.4
+       ],
+       [
+        "CI",
+        3.81
+       ],
+       [
+        "SN",
+        3.37
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        79.8
+       ],
+       [
+        "en",
+        15.6
+       ],
+       [
+        "pt",
+        1.06
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         42.4
+        ],
+        [
+         "Beauté",
+         23.9
+        ],
+        [
+         "Photo & vidéo",
+         22.4
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         42.4
+        ],
+        [
+         "Beauty",
+         23.9
+        ],
+        [
+         "Camera & photography",
+         22.4
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 82.2,
+      "male": 17.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        44
+       ],
+       [
+        "CI",
+        6.52
+       ],
+       [
+        "SN",
+        6.45
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        92.8
+       ],
+       [
+        "en",
+        5.56
+       ],
+       [
+        "pt",
+        0.61
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-16",
+   "sample": false,
+   "name": "Jimmy Labeeu",
+   "handle": "@jimmylabeeu",
+   "instagram": "https://www.instagram.com/jimmylabeeu/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1310000,
+     "engagement": 1.79
+    },
+    {
+     "id": "tiktok",
+     "followers": 381000,
+     "engagement": 5.61,
+     "handle": "@labeeujim",
+     "url": "https://www.tiktok.com/@labeeujim"
+    }
+   ],
+   "engagement": 1.79,
+   "categories": {
+    "fr": [
+     "Humour",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Sport",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 81.3,
+     "followers": {
+      "female": 45,
+      "male": 55,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        74.1
+       ],
+       [
+        "BE",
+        7.38
+       ],
+       [
+        "CH",
+        1.99
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89
+       ],
+       [
+        "en",
+        8.52
+       ],
+       [
+        "ar",
+        0.49
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         39
+        ],
+        [
+         "Amis & famille",
+         32.9
+        ],
+        [
+         "Photo & vidéo",
+         27.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         39
+        ],
+        [
+         "Friends & family",
+         32.9
+        ],
+        [
+         "Camera & photography",
+         27.8
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 33.6,
+      "male": 66.4,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        75.5
+       ],
+       [
+        "BE",
+        15.3
+       ],
+       [
+        "CH",
+        1.34
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94.1
+       ],
+       [
+        "en",
+        5.15
+       ],
+       [
+        "nl",
+        0.27
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         44.3
+        ],
+        [
+         "Amis & famille",
+         33.8
+        ],
+        [
+         "Mode",
+         33
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         44.3
+        ],
+        [
+         "Friends & family",
+         33.8
+        ],
+        [
+         "Fashion",
+         33
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 37.2,
+      "male": 62.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        75.9
+       ],
+       [
+        "BE",
+        20.4
+       ],
+       [
+        "CH",
+        2.12
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        97.3
+       ],
+       [
+        "en",
+        2.3
+       ],
+       [
+        "nl",
+        0.13
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-17",
+   "sample": false,
+   "name": "Pablo Brimeux",
+   "handle": "@brimeuxpablo",
+   "instagram": "https://www.instagram.com/brimeuxpablo/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 574000,
+     "engagement": 2.02
+    },
+    {
+     "id": "tiktok",
+     "followers": 1400000,
+     "engagement": 3.22,
+     "handle": "@pablobrimeux",
+     "url": "https://www.tiktok.com/@pablobrimeux"
+    }
+   ],
+   "engagement": 2.02,
+   "categories": {
+    "fr": [
+     "Football",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Football",
+     "Sport",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 84,
+     "followers": {
+      "female": 58.5,
+      "male": 41.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        82.4
+       ],
+       [
+        "US",
+        3.39
+       ],
+       [
+        "BE",
+        3.04
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        90.3
+       ],
+       [
+        "en",
+        7.87
+       ],
+       [
+        "es",
+        0.51
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         38.8
+        ],
+        [
+         "Amis & famille",
+         28.7
+        ],
+        [
+         "Mode",
+         28.6
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         38.8
+        ],
+        [
+         "Friends & family",
+         28.7
+        ],
+        [
+         "Fashion",
+         28.6
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 56.7,
+      "male": 43.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        77.2
+       ],
+       [
+        "BE",
+        2.5
+       ],
+       [
+        "CA",
+        2.01
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        86.1
+       ],
+       [
+        "en",
+        9.25
+       ],
+       [
+        "es",
+        0.94
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         46.4
+        ],
+        [
+         "Mode",
+         36.7
+        ],
+        [
+         "Photo & vidéo",
+         33.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         46.4
+        ],
+        [
+         "Fashion",
+         36.7
+        ],
+        [
+         "Camera & photography",
+         33.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 50.9,
+      "male": 49.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        78.6
+       ],
+       [
+        "CA",
+        7.54
+       ],
+       [
+        "BE",
+        4.59
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94.6
+       ],
+       [
+        "en",
+        4.36
+       ],
+       [
+        "es",
+        0.27
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-18",
+   "sample": false,
+   "name": "Schad",
+   "handle": "@schad_ape_",
+   "instagram": "https://www.instagram.com/schad_ape_/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 307000,
+     "engagement": 3.53
+    },
+    {
+     "id": "tiktok",
+     "followers": 2000000,
+     "engagement": 5.13,
+     "handle": "@schad_ape_",
+     "url": "https://www.tiktok.com/@schad_ape_"
+    }
+   ],
+   "engagement": 3.53,
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Mode"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Fashion"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 80.7,
+     "followers": {
+      "female": 57.8,
+      "male": 42.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        70.2
+       ],
+       [
+        "SN",
+        3.86
+       ],
+       [
+        "BE",
+        3.62
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        86.3
+       ],
+       [
+        "en",
+        10.9
+       ],
+       [
+        "it",
+        0.74
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         32.9
+        ],
+        [
+         "Amis & famille",
+         28.2
+        ],
+        [
+         "Sport & fitness",
+         28.1
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         32.9
+        ],
+        [
+         "Friends & family",
+         28.2
+        ],
+        [
+         "Sport & fitness",
+         28.1
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 43.1,
+      "male": 56.9,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        67
+       ],
+       [
+        "SN",
+        5.23
+       ],
+       [
+        "CI",
+        2.65
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        85.4
+       ],
+       [
+        "en",
+        12.1
+       ],
+       [
+        "es",
+        0.7
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         38.2
+        ],
+        [
+         "Sport & fitness",
+         35.9
+        ],
+        [
+         "Amis & famille",
+         28.8
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         38.2
+        ],
+        [
+         "Sport & fitness",
+         35.9
+        ],
+        [
+         "Friends & family",
+         28.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 56.7,
+      "male": 43.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        55
+       ],
+       [
+        "CI",
+        11.2
+       ],
+       [
+        "SN",
+        5.66
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94.4
+       ],
+       [
+        "en",
+        4.16
+       ],
+       [
+        "it",
+        0.3
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-19",
+   "sample": false,
+   "name": "Ton Pote Gillian",
+   "handle": "@ton_pote_gillian",
+   "instagram": "https://www.instagram.com/ton_pote_gillian/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1350000,
+     "engagement": 11.6
+    },
+    {
+     "id": "tiktok",
+     "followers": 1000000,
+     "engagement": 18.6,
+     "handle": "@ton_pote_gillian",
+     "url": "https://www.tiktok.com/@ton_pote_gillian"
+    }
+   ],
+   "engagement": 11.6,
+   "categories": {
+    "fr": [
+     "Humour",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Sport",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 88.9,
+     "followers": {
+      "female": 42.4,
+      "male": 57.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        82.5
+       ],
+       [
+        "BE",
+        2.94
+       ],
+       [
+        "CH",
+        1.93
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        91.8
+       ],
+       [
+        "en",
+        7.08
+       ],
+       [
+        "es",
+        0.33
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         60.9
+        ],
+        [
+         "Amis & famille",
+         43.4
+        ],
+        [
+         "Photo & vidéo",
+         43.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         60.9
+        ],
+        [
+         "Friends & family",
+         43.4
+        ],
+        [
+         "Camera & photography",
+         43.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 47.3,
+      "male": 52.7,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        84.8
+       ],
+       [
+        "BE",
+        1.79
+       ],
+       [
+        "CH",
+        1.55
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        91.7
+       ],
+       [
+        "en",
+        6.88
+       ],
+       [
+        "pt",
+        0.3
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         54.2
+        ],
+        [
+         "Amis & famille",
+         43.9
+        ],
+        [
+         "Voyage",
+         40.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         54.2
+        ],
+        [
+         "Friends & family",
+         43.9
+        ],
+        [
+         "Travel",
+         40.3
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 42.9,
+      "male": 57.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        75.7
+       ],
+       [
+        "BE",
+        4.15
+       ],
+       [
+        "CI",
+        1.84
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        93.5
+       ],
+       [
+        "en",
+        3.91
+       ],
+       [
+        "es",
+        1.22
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-20",
+   "sample": false,
+   "name": "Raul Marchisio",
+   "handle": "@raul.marchisio",
+   "instagram": "https://www.instagram.com/raul.marchisio/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "it",
+    "en"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 405000,
+     "engagement": 1.57
+    },
+    {
+     "id": "tiktok",
+     "followers": 38600,
+     "engagement": 9.94,
+     "handle": "@raulmarchisio",
+     "url": "https://www.tiktok.com/@raulmarchisio"
+    }
+   ],
+   "engagement": 1.57,
+   "categories": {
+    "fr": [
+     "Automobile",
+     "Luxe",
+     "Lifestyle"
+    ],
+    "en": [
+     "Automotive",
+     "Luxury",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 68.9,
+     "followers": {
+      "female": 7.13,
+      "male": 92.9,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "IT",
+        25.2
+       ],
+       [
+        "FR",
+        20.5
+       ],
+       [
+        "US",
+        8.07
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        44.5
+       ],
+       [
+        "it",
+        18.6
+       ],
+       [
+        "fr",
+        18.3
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Automobile",
+         83.9
+        ],
+        [
+         "Sport & fitness",
+         66.7
+        ],
+        [
+         "Luxe",
+         39.5
+        ]
+       ],
+       "en": [
+        [
+         "Vehicles",
+         83.9
+        ],
+        [
+         "Sport & fitness",
+         66.7
+        ],
+        [
+         "Luxury goods",
+         39.5
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 8.72,
+      "male": 91.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        58.9
+       ],
+       [
+        "IT",
+        9.53
+       ],
+       [
+        "BE",
+        6.3
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        68
+       ],
+       [
+        "en",
+        10.4
+       ],
+       [
+        "it",
+        9.6
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-21",
+   "sample": false,
+   "name": "Johan Racha",
+   "handle": "@johan_racha",
+   "instagram": "https://www.instagram.com/johan_racha/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "ar"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 141000,
+     "engagement": 4.96
+    },
+    {
+     "id": "tiktok",
+     "followers": 746000,
+     "engagement": 6.68,
+     "handle": "@johan_racha",
+     "url": "https://www.tiktok.com/@johan_racha"
+    }
+   ],
+   "engagement": 4.96,
+   "categories": {
+    "fr": [
+     "Couple",
+     "Humour",
+     "Lifestyle"
+    ],
+    "en": [
+     "Couple",
+     "Comedy",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 66.8,
+     "followers": {
+      "female": 57,
+      "male": 43,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        36.3
+       ],
+       [
+        "DZ",
+        26.2
+       ],
+       [
+        "MA",
+        14.7
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        52.9
+       ],
+       [
+        "ar",
+        30.6
+       ],
+       [
+        "en",
+        12.7
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         48.3
+        ],
+        [
+         "Mode",
+         43
+        ],
+        [
+         "Photo & vidéo",
+         34.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         48.3
+        ],
+        [
+         "Fashion",
+         43
+        ],
+        [
+         "Camera & photography",
+         34.8
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 40.5,
+      "male": 59.5,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        88.2
+       ],
+       [
+        "ES",
+        1.3
+       ],
+       [
+        "BE",
+        1.23
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        95
+       ],
+       [
+        "en",
+        3.65
+       ],
+       [
+        "es",
+        0.45
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         57.4
+        ],
+        [
+         "Amis & famille",
+         39.9
+        ],
+        [
+         "Mode",
+         36.5
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         57.4
+        ],
+        [
+         "Friends & family",
+         39.9
+        ],
+        [
+         "Fashion",
+         36.5
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 41.8,
+      "male": 58.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        75.3
+       ],
+       [
+        "SN",
+        4.23
+       ],
+       [
+        "BE",
+        3.74
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        96.7
+       ],
+       [
+        "en",
+        2.45
+       ],
+       [
+        "pt",
+        0.2
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-22",
+   "sample": false,
+   "name": "Sienna Bernardini",
+   "handle": "@siennabernardini",
+   "instagram": "https://www.instagram.com/siennabernardini/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "en"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 313000,
+     "engagement": 1.06
+    },
+    {
+     "id": "tiktok",
+     "followers": 2500000,
+     "engagement": 0.4,
+     "handle": "@siennabernardini",
+     "url": "https://www.tiktok.com/@siennabernardini"
+    }
+   ],
+   "engagement": 1.06,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 77,
+     "followers": {
+      "female": 82.8,
+      "male": 17.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        63.2
+       ],
+       [
+        "US",
+        4.91
+       ],
+       [
+        "BE",
+        2.99
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        71.3
+       ],
+       [
+        "en",
+        16.5
+       ],
+       [
+        "es",
+        3.71
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Art & design",
+         31.7
+        ],
+        [
+         "Mode",
+         30.5
+        ],
+        [
+         "Sport & fitness",
+         30.3
+        ]
+       ],
+       "en": [
+        [
+         "Art & design",
+         31.7
+        ],
+        [
+         "Fashion",
+         30.5
+        ],
+        [
+         "Sport & fitness",
+         30.3
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 58.7,
+      "male": 41.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        34.3
+       ],
+       [
+        "IT",
+        5.52
+       ],
+       [
+        "US",
+        5.09
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        48.3
+       ],
+       [
+        "en",
+        21.6
+       ],
+       [
+        "it",
+        4.98
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-25",
+   "sample": false,
+   "name": "Léa Mylla",
+   "handle": "@lea_mylla",
+   "instagram": "https://www.instagram.com/lea_mylla/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "en"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 54300,
+     "engagement": 2.68
+    }
+   ],
+   "engagement": 2.68,
+   "categories": {
+    "fr": [
+     "Fitness",
+     "Mode",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fitness",
+     "Fashion",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 71.1,
+     "followers": {
+      "female": 44,
+      "male": 56,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        53.7
+       ],
+       [
+        "BE",
+        14.6
+       ],
+       [
+        "US",
+        5.27
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        66
+       ],
+       [
+        "en",
+        19.9
+       ],
+       [
+        "es",
+        4.76
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         91.4
+        ],
+        [
+         "Mode",
+         40.1
+        ],
+        [
+         "Photo & vidéo",
+         38.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         91.4
+        ],
+        [
+         "Fashion",
+         40.1
+        ],
+        [
+         "Camera & photography",
+         38.3
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-26",
+   "sample": false,
+   "name": "Marylou Leloup",
+   "handle": "@marylouleloup",
+   "instagram": "https://www.instagram.com/marylouleloup/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 573000,
+     "engagement": 1.4
+    },
+    {
+     "id": "tiktok",
+     "followers": 2500000,
+     "engagement": 0.63,
+     "handle": "@marylouleloup",
+     "url": "https://www.tiktok.com/@marylouleloup"
+    }
+   ],
+   "engagement": 1.4,
+   "categories": {
+    "fr": [
+     "Lifestyle",
+     "Mode",
+     "Beauté"
+    ],
+    "en": [
+     "Lifestyle",
+     "Fashion",
+     "Beauty"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 82.5,
+     "followers": {
+      "female": 88.2,
+      "male": 11.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        78.6
+       ],
+       [
+        "BE",
+        5.44
+       ],
+       [
+        "US",
+        1.94
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.5
+       ],
+       [
+        "en",
+        7.59
+       ],
+       [
+        "ar",
+        0.59
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         24.4
+        ],
+        [
+         "Jouets & enfants",
+         19.2
+        ],
+        [
+         "Sport & fitness",
+         17
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         24.4
+        ],
+        [
+         "Toys & children",
+         19.2
+        ],
+        [
+         "Sport & fitness",
+         17
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 94.8,
+      "male": 5.22,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        86.7
+       ],
+       [
+        "BE",
+        3.88
+       ],
+       [
+        "ES",
+        1.03
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        91.1
+       ],
+       [
+        "en",
+        6.79
+       ],
+       [
+        "it",
+        0.32
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         34.9
+        ],
+        [
+         "Amis & famille",
+         28.4
+        ],
+        [
+         "Jouets & enfants",
+         27
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         34.9
+        ],
+        [
+         "Friends & family",
+         28.4
+        ],
+        [
+         "Toys & children",
+         27
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 86.7,
+      "male": 13.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        59.7
+       ],
+       [
+        "BE",
+        5.02
+       ],
+       [
+        "US",
+        4.86
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        68.8
+       ],
+       [
+        "en",
+        17
+       ],
+       [
+        "es",
+        3.17
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-27",
+   "sample": false,
+   "name": "Cassandra Jullia",
+   "handle": "@cassandrajulliaoff",
+   "instagram": "https://www.instagram.com/cassandrajulliaoff/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 626000,
+     "engagement": 0.77
+    },
+    {
+     "id": "tiktok",
+     "followers": 842000,
+     "engagement": 0.71,
+     "handle": "@cassandrajulliaof",
+     "url": "https://www.tiktok.com/@cassandrajulliaof"
+    }
+   ],
+   "engagement": 0.77,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Lifestyle",
+     "Beauté"
+    ],
+    "en": [
+     "Fashion",
+     "Lifestyle",
+     "Beauty"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 78.5,
+     "followers": {
+      "female": 80.6,
+      "male": 19.4,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        68.3
+       ],
+       [
+        "BE",
+        4.96
+       ],
+       [
+        "CI",
+        3.5
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        88.8
+       ],
+       [
+        "en",
+        7.44
+       ],
+       [
+        "ar",
+        0.97
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         42.9
+        ],
+        [
+         "Sport & fitness",
+         37
+        ],
+        [
+         "Mode",
+         34.1
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         42.9
+        ],
+        [
+         "Sport & fitness",
+         37
+        ],
+        [
+         "Fashion",
+         34.1
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 88.8,
+      "male": 11.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        72.2
+       ],
+       [
+        "BE",
+        4.54
+       ],
+       [
+        "MA",
+        2.4
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        87.5
+       ],
+       [
+        "en",
+        9.83
+       ],
+       [
+        "es",
+        0.73
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         47.7
+        ],
+        [
+         "Sport & fitness",
+         45.1
+        ],
+        [
+         "Amis & famille",
+         42.2
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         47.7
+        ],
+        [
+         "Sport & fitness",
+         45.1
+        ],
+        [
+         "Friends & family",
+         42.2
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 73.9,
+      "male": 26.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        68.9
+       ],
+       [
+        "BE",
+        7.01
+       ],
+       [
+        "SN",
+        2.67
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        91.2
+       ],
+       [
+        "en",
+        3.45
+       ],
+       [
+        "es",
+        1.16
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-28",
+   "sample": false,
+   "name": "Sania Hasna",
+   "handle": "@saniahasna",
+   "instagram": "https://www.instagram.com/saniahasna/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 246000,
+     "engagement": 2.8
+    },
+    {
+     "id": "tiktok",
+     "followers": 800000,
+     "engagement": 2.56,
+     "handle": "@saniahasna1",
+     "url": "https://www.tiktok.com/@saniahasna1"
+    }
+   ],
+   "engagement": 2.8,
+   "categories": {
+    "fr": [
+     "Beauté",
+     "Mode",
+     "Lifestyle"
+    ],
+    "en": [
+     "Beauty",
+     "Fashion",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 74.1,
+     "followers": {
+      "female": 80.8,
+      "male": 19.2,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        69.5
+       ],
+       [
+        "BE",
+        3.15
+       ],
+       [
+        "MA",
+        2.52
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        86.1
+       ],
+       [
+        "en",
+        10.7
+       ],
+       [
+        "ar",
+        0.95
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         38.9
+        ],
+        [
+         "Beauté",
+         35.9
+        ],
+        [
+         "Restaurants & food",
+         35.1
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         38.9
+        ],
+        [
+         "Beauty",
+         35.9
+        ],
+        [
+         "Restaurants & food",
+         35.1
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 81.9,
+      "male": 18.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        83.1
+       ],
+       [
+        "BE",
+        3.69
+       ],
+       [
+        "CA",
+        1.06
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89.8
+       ],
+       [
+        "en",
+        8.24
+       ],
+       [
+        "pt",
+        0.61
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         38
+        ],
+        [
+         "Amis & famille",
+         34.1
+        ],
+        [
+         "Beauté",
+         33.8
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         38
+        ],
+        [
+         "Friends & family",
+         34.1
+        ],
+        [
+         "Beauty",
+         33.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 79.4,
+      "male": 20.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        77
+       ],
+       [
+        "BE",
+        4.2
+       ],
+       [
+        "CA",
+        3.18
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94.7
+       ],
+       [
+        "en",
+        4.32
+       ],
+       [
+        "pt",
+        0.2
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-29",
+   "sample": false,
+   "name": "Lola Rossi",
+   "handle": "@lola_rossi_",
+   "instagram": "https://www.instagram.com/lola_rossi_/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 464000,
+     "engagement": 2.42
+    },
+    {
+     "id": "tiktok",
+     "followers": 44800,
+     "engagement": 6.78,
+     "handle": "@lola_rossi_",
+     "url": "https://www.tiktok.com/@lola_rossi_"
+    }
+   ],
+   "engagement": 2.42,
+   "categories": {
+    "fr": [
+     "Famille",
+     "Lifestyle",
+     "Voyage"
+    ],
+    "en": [
+     "Family",
+     "Lifestyle",
+     "Travel"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 74.9,
+     "followers": {
+      "female": 85.2,
+      "male": 14.8,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        76.6
+       ],
+       [
+        "BE",
+        3.03
+       ],
+       [
+        "US",
+        2.59
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        82.4
+       ],
+       [
+        "en",
+        11.2
+       ],
+       [
+        "ar",
+        1.9
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         61.8
+        ],
+        [
+         "Amis & famille",
+         56
+        ],
+        [
+         "Restaurants & food",
+         52.1
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         61.8
+        ],
+        [
+         "Friends & family",
+         56
+        ],
+        [
+         "Restaurants & food",
+         52.1
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 97,
+      "male": 3.03,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        86.8
+       ],
+       [
+        "BE",
+        2.96
+       ],
+       [
+        "ES",
+        1.43
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        95
+       ],
+       [
+        "en",
+        4.15
+       ],
+       [
+        "es",
+        0.22
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         65.1
+        ],
+        [
+         "Sport & fitness",
+         65
+        ],
+        [
+         "Voyage",
+         61.8
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         65.1
+        ],
+        [
+         "Sport & fitness",
+         65
+        ],
+        [
+         "Travel",
+         61.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 96,
+      "male": 4.01,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        90.3
+       ],
+       [
+        "BE",
+        4.92
+       ],
+       [
+        "CH",
+        1.09
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        96.7
+       ],
+       [
+        "en",
+        2.49
+       ],
+       [
+        "es",
+        0.22
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-30",
+   "sample": false,
+   "name": "Tiffany Family",
+   "handle": "@tiffany.family",
+   "instagram": "https://www.instagram.com/tiffany.family/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 254000,
+     "engagement": 1.42
+    }
+   ],
+   "engagement": 1.42,
+   "categories": {
+    "fr": [
+     "Famille",
+     "Parentalité",
+     "Lifestyle"
+    ],
+    "en": [
+     "Family",
+     "Parenting",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 89,
+     "followers": {
+      "female": 96.3,
+      "male": 3.66,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        85.5
+       ],
+       [
+        "BE",
+        2.88
+       ],
+       [
+        "ES",
+        1.31
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        95.7
+       ],
+       [
+        "en",
+        2.75
+       ],
+       [
+        "ar",
+        0.36
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         64.4
+        ],
+        [
+         "Jouets & enfants",
+         59.9
+        ],
+        [
+         "Sport & fitness",
+         55.8
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         64.4
+        ],
+        [
+         "Toys & children",
+         59.9
+        ],
+        [
+         "Sport & fitness",
+         55.8
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 97.5,
+      "male": 2.45,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        88.1
+       ],
+       [
+        "BE",
+        2.27
+       ],
+       [
+        "CH",
+        1.04
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        96.4
+       ],
+       [
+        "en",
+        2.33
+       ],
+       [
+        "it",
+        0.27
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         70.1
+        ],
+        [
+         "Jouets & enfants",
+         65.8
+        ],
+        [
+         "Sport & fitness",
+         57.6
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         70.1
+        ],
+        [
+         "Toys & children",
+         65.8
+        ],
+        [
+         "Sport & fitness",
+         57.6
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-31",
+   "sample": false,
+   "name": "",
+   "handle": "@yaelle.ab",
+   "instagram": "https://www.instagram.com/yaelle.ab/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": null
+    }
+   ],
+   "engagement": null,
+   "categories": {
+    "fr": [],
+    "en": []
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ]
+  },
+  {
+   "id": "fr-32",
+   "sample": false,
+   "name": "Larmoire Desoso",
+   "handle": "@larmoiredesoso",
+   "instagram": "https://www.instagram.com/larmoiredesoso/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 671000,
+     "engagement": 3.69
+    },
+    {
+     "id": "tiktok",
+     "followers": 91600,
+     "engagement": 4.32,
+     "handle": "@larmoiredesoso",
+     "url": "https://www.tiktok.com/@larmoiredesoso"
+    }
+   ],
+   "engagement": 3.69,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Lifestyle",
+     "Voyage"
+    ],
+    "en": [
+     "Fashion",
+     "Lifestyle",
+     "Travel"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 73.6,
+     "followers": {
+      "female": 86.7,
+      "male": 13.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        77.5
+       ],
+       [
+        "BE",
+        2.21
+       ],
+       [
+        "US",
+        2.02
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        81.4
+       ],
+       [
+        "en",
+        11.3
+       ],
+       [
+        "es",
+        1.52
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         57.9
+        ],
+        [
+         "Sport & fitness",
+         56.5
+        ],
+        [
+         "Voyage",
+         56
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         57.9
+        ],
+        [
+         "Sport & fitness",
+         56.5
+        ],
+        [
+         "Travel",
+         56
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 95.7,
+      "male": 4.34,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        83.5
+       ],
+       [
+        "ES",
+        1.94
+       ],
+       [
+        "BE",
+        1.86
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        87.8
+       ],
+       [
+        "en",
+        7.75
+       ],
+       [
+        "es",
+        1.27
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         64.7
+        ],
+        [
+         "Voyage",
+         63.4
+        ],
+        [
+         "Mode",
+         61.1
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         64.7
+        ],
+        [
+         "Travel",
+         63.4
+        ],
+        [
+         "Fashion",
+         61.1
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 82.6,
+      "male": 17.4,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        74.5
+       ],
+       [
+        "BE",
+        4
+       ],
+       [
+        "AR",
+        2.63
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        79.8
+       ],
+       [
+        "en",
+        6.75
+       ],
+       [
+        "es",
+        5.77
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-33",
+   "sample": false,
+   "name": "June Sixty Five",
+   "handle": "@junesixtyfive",
+   "instagram": "https://www.instagram.com/junesixtyfive/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr",
+    "en"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 462000,
+     "engagement": 2.3
+    },
+    {
+     "id": "tiktok",
+     "followers": 82100,
+     "engagement": 0.17,
+     "handle": "@junesixtyfive",
+     "url": "https://www.tiktok.com/@junesixtyfive"
+    }
+   ],
+   "engagement": 2.3,
+   "categories": {
+    "fr": [
+     "Mode",
+     "Beauté",
+     "Lifestyle"
+    ],
+    "en": [
+     "Fashion",
+     "Beauty",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 73.8,
+     "followers": {
+      "female": 90.4,
+      "male": 9.58,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        35.4
+       ],
+       [
+        "US",
+        7.63
+       ],
+       [
+        "ES",
+        5.76
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        37.8
+       ],
+       [
+        "en",
+        30.1
+       ],
+       [
+        "es",
+        9.17
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         60.2
+        ],
+        [
+         "Voyage",
+         53.5
+        ],
+        [
+         "Amis & famille",
+         50.9
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         60.2
+        ],
+        [
+         "Travel",
+         53.5
+        ],
+        [
+         "Friends & family",
+         50.9
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 73.2,
+      "male": 26.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        78.9
+       ],
+       [
+        "BE",
+        4.53
+       ],
+       [
+        "US",
+        1.21
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        83.1
+       ],
+       [
+        "en",
+        8.49
+       ],
+       [
+        "es",
+        2.41
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-35",
+   "sample": false,
+   "name": "Healthy Life Mary",
+   "handle": "@healthylifemary",
+   "instagram": "https://www.instagram.com/healthylifemary/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 521000,
+     "engagement": 1.41
+    },
+    {
+     "id": "tiktok",
+     "followers": 107000,
+     "engagement": 0.25,
+     "handle": "@healthylifemary",
+     "url": "https://www.tiktok.com/@healthylifemary"
+    }
+   ],
+   "engagement": 1.41,
+   "categories": {
+    "fr": [
+     "Bien-être",
+     "Fitness",
+     "Lifestyle"
+    ],
+    "en": [
+     "Wellness",
+     "Fitness",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "credibility": 83,
+     "followers": {
+      "female": 92.8,
+      "male": 7.17,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        79.5
+       ],
+       [
+        "BE",
+        3.44
+       ],
+       [
+        "US",
+        1.79
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        89
+       ],
+       [
+        "en",
+        6.38
+       ],
+       [
+        "pt",
+        1.08
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         60
+        ],
+        [
+         "Sport & fitness",
+         60
+        ],
+        [
+         "Jouets & enfants",
+         56.1
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         60
+        ],
+        [
+         "Sport & fitness",
+         60
+        ],
+        [
+         "Toys & children",
+         56.1
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 93.1,
+      "male": 6.93,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "FR",
+        86
+       ],
+       [
+        "BE",
+        2.37
+       ],
+       [
+        "CH",
+        2.09
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        94
+       ],
+       [
+        "en",
+        4.25
+       ],
+       [
+        "pt",
+        0.52
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         74.1
+        ],
+        [
+         "Amis & famille",
+         58.1
+        ],
+        [
+         "Voyage",
+         49.9
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         74.1
+        ],
+        [
+         "Friends & family",
+         58.1
+        ],
+        [
+         "Travel",
+         49.9
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 90.8,
+      "male": 9.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        87.7
+       ],
+       [
+        "BE",
+        5.43
+       ],
+       [
+        "CH",
+        1.57
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        96
+       ],
+       [
+        "en",
+        2.36
+       ],
+       [
+        "pt",
+        0.41
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-37",
+   "sample": false,
+   "name": "Greeenz",
+   "handle": "@greeenz33",
+   "instagram": "https://www.instagram.com/greeenz33/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 108000,
+     "engagement": 4.04
+    }
+   ],
+   "engagement": 4.04,
+   "categories": {
+    "fr": [
+     "Automobile",
+     "Lifestyle"
+    ],
+    "en": [
+     "Automotive",
+     "Lifestyle"
+    ]
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "verified": true,
+   "audience": {
+    "instagram": {
+     "engaged": {
+      "female": 36.4,
+      "male": 63.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        86.9
+       ],
+       [
+        "BE",
+        3.53
+       ],
+       [
+        "CH",
+        2.06
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        93.9
+       ],
+       [
+        "en",
+        4.33
+       ],
+       [
+        "pt",
+        0.33
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Automobile",
+         55.7
+        ],
+        [
+         "Sport & fitness",
+         36.8
+        ],
+        [
+         "Photo & vidéo",
+         25.2
+        ]
+       ],
+       "en": [
+        [
+         "Vehicles",
+         55.7
+        ],
+        [
+         "Sport & fitness",
+         36.8
+        ],
+        [
+         "Camera & photography",
+         25.2
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "fr-38",
+   "sample": false,
+   "name": "",
+   "handle": "@noemiemakeuptouch",
+   "instagram": "https://www.instagram.com/noemiemakeuptouch/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": null
+    }
+   ],
+   "engagement": null,
+   "categories": {
+    "fr": [],
+    "en": []
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ]
+  },
+  {
+   "id": "fr-39",
+   "sample": false,
+   "name": "",
+   "handle": "@mira._liyana",
+   "instagram": "https://www.instagram.com/mira._liyana/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": null
+    }
+   ],
+   "engagement": null,
+   "categories": {
+    "fr": [],
+    "en": []
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ]
+  },
+  {
+   "id": "fr-40",
+   "sample": false,
+   "name": "",
+   "handle": "@lamaisondejustine__",
+   "instagram": "https://www.instagram.com/lamaisondejustine__/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": null
+    }
+   ],
+   "engagement": null,
+   "categories": {
+    "fr": [],
+    "en": []
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ]
+  },
+  {
+   "id": "fr-41",
+   "sample": false,
+   "name": "",
+   "handle": "@au_numero_22",
+   "instagram": "https://www.instagram.com/au_numero_22/",
+   "photo": "",
+   "country": "FR",
+   "languages": [
+    "fr"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": null
+    }
+   ],
+   "engagement": null,
+   "categories": {
+    "fr": [],
+    "en": []
+   },
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ]
+  },
+  {
+   "id": "vitalythegoat",
+   "handle": "@vitalythegoat",
+   "instagram": "https://www.instagram.com/vitalythegoat/",
+   "country": "US",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "photo": "",
+   "name": "Vitaly Zdorovetskiy",
+   "verified": true,
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 774000,
+     "engagement": 1.41
+    }
+   ],
+   "engagement": 1.41,
+   "languages": [
+    "en",
+    "ru"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Divertissement",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Entertainment",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 67.8,
+     "followers": {
+      "female": 34.8,
+      "male": 65.2,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "KZ",
+        29.5
+       ],
+       [
+        "US",
+        14.5
+       ],
+       [
+        "RU",
+        13.8
+       ]
+      ],
+      "languages": [
+       [
+        "ru",
+        40.9
+       ],
+       [
+        "en",
+        33.3
+       ],
+       [
+        "kk",
+        7.68
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         48.2
+        ],
+        [
+         "Amis & famille",
+         37.3
+        ],
+        [
+         "Voyage",
+         32.1
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         48.2
+        ],
+        [
+         "Friends & family",
+         37.3
+        ],
+        [
+         "Travel",
+         32.1
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "thefazeadapt",
+   "handle": "@thefazeadapt",
+   "instagram": "https://www.instagram.com/thefazeadapt/",
+   "country": "US",
+   "photo": "",
+   "name": "FaZe Adapt",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 3060000,
+     "engagement": 3.59
+    },
+    {
+     "id": "tiktok",
+     "followers": 2100000,
+     "engagement": 7.93,
+     "handle": "@fazeadapt",
+     "url": "https://www.tiktok.com/@fazeadapt"
+    }
+   ],
+   "engagement": 3.59,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Gaming",
+     "Humour",
+     "Lifestyle"
+    ],
+    "en": [
+     "Gaming",
+     "Comedy",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 76.1,
+     "followers": {
+      "female": 15.6,
+      "male": 84.4,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        64.7
+       ],
+       [
+        "GB",
+        7.59
+       ],
+       [
+        "CA",
+        3.96
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        91.9
+       ],
+       [
+        "es",
+        2.07
+       ],
+       [
+        "ar",
+        0.92
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         30.6
+        ],
+        [
+         "Gaming",
+         22.9
+        ],
+        [
+         "Automobile",
+         22.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         30.6
+        ],
+        [
+         "Gaming",
+         22.9
+        ],
+        [
+         "Vehicles",
+         22.2
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 11.8,
+      "male": 88.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        72.9
+       ],
+       [
+        "CA",
+        5.05
+       ],
+       [
+        "GB",
+        4.23
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        94.8
+       ],
+       [
+        "es",
+        1.42
+       ],
+       [
+        "de",
+        1.04
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         32.3
+        ],
+        [
+         "TV & cinéma",
+         26
+        ],
+        [
+         "Automobile",
+         18.5
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         32.3
+        ],
+        [
+         "TV & film",
+         26
+        ],
+        [
+         "Vehicles",
+         18.5
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 14.5,
+      "male": 85.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        64.9
+       ],
+       [
+        "GB",
+        11.6
+       ],
+       [
+        "CA",
+        5.13
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        95.6
+       ],
+       [
+        "es",
+        0.86
+       ],
+       [
+        "nl",
+        0.67
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "photo": "",
+   "id": "mr-antoinedaniel",
+   "handle": "@mr.antoinedaniel",
+   "instagram": "https://www.instagram.com/mr.antoinedaniel/",
+   "country": "FR",
+   "name": "Antoine Daniel",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 499000,
+     "engagement": null
+    }
+   ],
+   "engagement": null,
+   "languages": [
+    "fr"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Divertissement",
+     "Gaming"
+    ],
+    "en": [
+     "Comedy",
+     "Entertainment",
+     "Gaming"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 83.5,
+     "followers": {
+      "female": 31.2,
+      "male": 68.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "FR",
+        77.1
+       ],
+       [
+        "BE",
+        4.27
+       ],
+       [
+        "CA",
+        2.94
+       ]
+      ],
+      "languages": [
+       [
+        "fr",
+        87.8
+       ],
+       [
+        "en",
+        10.9
+       ],
+       [
+        "de",
+        0.23
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Photo & vidéo",
+         36.6
+        ],
+        [
+         "TV & cinéma",
+         36.3
+        ],
+        [
+         "Sport & fitness",
+         35.2
+        ]
+       ],
+       "en": [
+        [
+         "Camera & photography",
+         36.6
+        ],
+        [
+         "TV & film",
+         36.3
+        ],
+        [
+         "Sport & fitness",
+         35.2
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "photo": "",
+   "id": "marlon3lg",
+   "handle": "@marlon3lg",
+   "instagram": "https://www.instagram.com/marlon3lg/",
+   "country": "US",
+   "name": "Marlon",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 5880000,
+     "engagement": 1.67
+    },
+    {
+     "id": "tiktok",
+     "followers": 6200000,
+     "engagement": null,
+     "handle": "@marlon3lg",
+     "url": "https://www.tiktok.com/@marlon3lg"
+    }
+   ],
+   "engagement": 1.67,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Mode"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Fashion"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 82.8,
+     "followers": {
+      "female": 80.9,
+      "male": 19.1,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        36
+       ],
+       [
+        "GB",
+        9.56
+       ],
+       [
+        "IT",
+        6.13
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        66.6
+       ],
+       [
+        "es",
+        9.5
+       ],
+       [
+        "it",
+        4.76
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         40.6
+        ],
+        [
+         "Sport & fitness",
+         25.7
+        ],
+        [
+         "Amis & famille",
+         24.7
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         40.6
+        ],
+        [
+         "Sport & fitness",
+         25.7
+        ],
+        [
+         "Friends & family",
+         24.7
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 49.4,
+      "male": 50.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        28.6
+       ],
+       [
+        "GB",
+        6.51
+       ],
+       [
+        "IT",
+        5.56
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        56.9
+       ],
+       [
+        "es",
+        12
+       ],
+       [
+        "it",
+        5.17
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "therealjaycincoo",
+   "handle": "@therealjaycincoo",
+   "instagram": "https://www.instagram.com/therealjaycincoo/",
+   "country": "US",
+   "photo": "",
+   "name": "Jay Cinco",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 996000,
+     "engagement": 11
+    }
+   ],
+   "engagement": 11,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Sport"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Sports"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 79.4,
+     "followers": {
+      "female": 78.5,
+      "male": 21.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        84.2
+       ],
+       [
+        "JM",
+        1.44
+       ],
+       [
+        "GB",
+        1.27
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.9
+       ],
+       [
+        "fr",
+        0.7
+       ],
+       [
+        "es",
+        0.52
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         32.9
+        ],
+        [
+         "Amis & famille",
+         18.8
+        ],
+        [
+         "Musique",
+         18.4
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         32.9
+        ],
+        [
+         "Friends & family",
+         18.8
+        ],
+        [
+         "Music",
+         18.4
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 43.3,
+      "male": 56.7,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        77.2
+       ],
+       [
+        "GB",
+        3.42
+       ],
+       [
+        "CA",
+        2.19
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        93.8
+       ],
+       [
+        "fr",
+        1.65
+       ],
+       [
+        "es",
+        1.45
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         36.1
+        ],
+        [
+         "Sport & fitness",
+         30.5
+        ],
+        [
+         "Musique",
+         24.2
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         36.1
+        ],
+        [
+         "Sport & fitness",
+         30.5
+        ],
+        [
+         "Music",
+         24.2
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "suburbbaby",
+   "handle": "@suburbbaby_",
+   "instagram": "https://www.instagram.com/suburbbaby_/",
+   "country": "US",
+   "photo": "",
+   "name": "Suburb Baby",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 4110000,
+     "engagement": 1
+    }
+   ],
+   "engagement": 1,
+   "languages": [
+    "en"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 76,
+     "followers": {
+      "female": 9.7,
+      "male": 90.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        85.2
+       ],
+       [
+        "CA",
+        2.25
+       ],
+       [
+        "AU",
+        1.06
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.1
+       ],
+       [
+        "fr",
+        0.65
+       ],
+       [
+        "es",
+        0.55
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         52.1
+        ],
+        [
+         "Mode",
+         24.3
+        ],
+        [
+         "Musique",
+         24.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         52.1
+        ],
+        [
+         "Fashion",
+         24.3
+        ],
+        [
+         "Music",
+         24.3
+        ]
+       ]
+      }
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Sport"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Sports"
+    ]
+   }
+  },
+  {
+   "country": "US",
+   "photo": "",
+   "id": "purpdrank",
+   "handle": "@purpdrank",
+   "instagram": "https://www.instagram.com/purpdrank/",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "name": "Jerry Purpdrank",
+   "verified": true,
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 2900000,
+     "engagement": 5.22
+    },
+    {
+     "id": "tiktok",
+     "followers": 2500000,
+     "engagement": 1.4,
+     "handle": "@purpdrank",
+     "url": "https://www.tiktok.com/@purpdrank"
+    }
+   ],
+   "engagement": 5.22,
+   "languages": [
+    "en"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 75.2,
+     "followers": {
+      "female": 27.9,
+      "male": 72.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        51.2
+       ],
+       [
+        "GB",
+        3.36
+       ],
+       [
+        "BR",
+        3.08
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        79.8
+       ],
+       [
+        "es",
+        5.69
+       ],
+       [
+        "ar",
+        3.13
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         38.4
+        ],
+        [
+         "Amis & famille",
+         28.6
+        ],
+        [
+         "TV & cinéma",
+         25.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         38.4
+        ],
+        [
+         "Friends & family",
+         28.6
+        ],
+        [
+         "TV & film",
+         25.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 35.2,
+      "male": 64.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        49.3
+       ],
+       [
+        "CN",
+        4.87
+       ],
+       [
+        "ID",
+        3.87
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        76.5
+       ],
+       [
+        "es",
+        3.42
+       ],
+       [
+        "id",
+        3.33
+       ]
+      ]
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Musique",
+     "Lifestyle",
+     "Humour"
+    ],
+    "en": [
+     "Music",
+     "Lifestyle",
+     "Comedy"
+    ]
+   }
+  },
+  {
+   "country": "US",
+   "photo": "",
+   "id": "cherdleys",
+   "handle": "@cherdleys",
+   "instagram": "https://www.instagram.com/cherdleys/",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "name": "Cherdleys",
+   "verified": true,
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 2660000,
+     "engagement": 5.76
+    },
+    {
+     "id": "tiktok",
+     "followers": 4500000,
+     "engagement": 0.87,
+     "handle": "@cherdleys",
+     "url": "https://www.tiktok.com/@cherdleys"
+    }
+   ],
+   "engagement": 5.76,
+   "languages": [
+    "en"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 83.3,
+     "followers": {
+      "female": 19.3,
+      "male": 80.7,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        73.6
+       ],
+       [
+        "CA",
+        5.62
+       ],
+       [
+        "AU",
+        4.22
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        95.1
+       ],
+       [
+        "es",
+        1.3
+       ],
+       [
+        "fr",
+        0.65
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         40.9
+        ],
+        [
+         "TV & cinéma",
+         30.6
+        ],
+        [
+         "Automobile",
+         28
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         40.9
+        ],
+        [
+         "TV & film",
+         30.6
+        ],
+        [
+         "Vehicles",
+         28
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 27.5,
+      "male": 72.5,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        54
+       ],
+       [
+        "IN",
+        4.04
+       ],
+       [
+        "CA",
+        3.09
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        77.2
+       ],
+       [
+        "es",
+        4.67
+       ],
+       [
+        "de",
+        2.46
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         40.9
+        ],
+        [
+         "TV & cinéma",
+         28.6
+        ],
+        [
+         "Photo & vidéo",
+         27.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         40.9
+        ],
+        [
+         "TV & film",
+         28.6
+        ],
+        [
+         "Camera & photography",
+         27.8
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 26.9,
+      "male": 73.1,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        66.6
+       ],
+       [
+        "CA",
+        3.81
+       ],
+       [
+        "AU",
+        2.91
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        86.5
+       ],
+       [
+        "fr",
+        2.5
+       ],
+       [
+        "es",
+        2.47
+       ]
+      ]
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle"
+    ]
+   }
+  },
+  {
+   "country": "US",
+   "photo": "",
+   "id": "abiud-sando",
+   "handle": "@abiud_sando",
+   "instagram": "https://www.instagram.com/abiud_sando/",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "name": "Abiud Sando",
+   "verified": true,
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 2130000,
+     "engagement": 0.26
+    },
+    {
+     "id": "tiktok",
+     "followers": 8900000,
+     "engagement": 0.56,
+     "handle": "@abiud_sando",
+     "url": "https://www.tiktok.com/@abiud_sando"
+    }
+   ],
+   "engagement": 0.26,
+   "languages": [
+    "en",
+    "es"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 67.6,
+     "followers": {
+      "female": 68,
+      "male": 32,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        83.4
+       ],
+       [
+        "MX",
+        4.34
+       ],
+       [
+        "BR",
+        0.99
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        76.9
+       ],
+       [
+        "es",
+        17.9
+       ],
+       [
+        "ar",
+        1.45
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         50.4
+        ],
+        [
+         "Jouets & enfants",
+         45.5
+        ],
+        [
+         "Sport & fitness",
+         41.3
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         50.4
+        ],
+        [
+         "Toys & children",
+         45.5
+        ],
+        [
+         "Sport & fitness",
+         41.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 39.4,
+      "male": 60.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        32
+       ],
+       [
+        "MX",
+        16.8
+       ],
+       [
+        "IN",
+        12.9
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        41.2
+       ],
+       [
+        "es",
+        36.7
+       ],
+       [
+        "pt",
+        9.39
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         45.2
+        ],
+        [
+         "Amis & famille",
+         38.7
+        ],
+        [
+         "Jouets & enfants",
+         30.4
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         45.2
+        ],
+        [
+         "Friends & family",
+         38.7
+        ],
+        [
+         "Toys & children",
+         30.4
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 43.5,
+      "male": 56.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        32
+       ],
+       [
+        "MX",
+        12.9
+       ],
+       [
+        "BD",
+        3.53
+       ]
+      ],
+      "languages": [
+       [
+        "es",
+        47.2
+       ],
+       [
+        "en",
+        39.1
+       ],
+       [
+        "fr",
+        3.48
+       ]
+      ]
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Divertissement",
+     "Musique",
+     "Lifestyle"
+    ],
+    "en": [
+     "Entertainment",
+     "Music",
+     "Lifestyle"
+    ]
+   }
+  },
+  {
+   "country": "US",
+   "photo": "",
+   "id": "saliimthedream",
+   "handle": "@saliimthedream",
+   "instagram": "https://www.instagram.com/saliimthedream/",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "name": "Saliim The Dream",
+   "verified": true,
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1480000,
+     "engagement": null
+    }
+   ],
+   "engagement": null,
+   "languages": [
+    "en"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 79.9,
+     "followers": {
+      "female": 17.8,
+      "male": 82.2,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        70.3
+       ],
+       [
+        "CA",
+        4.77
+       ],
+       [
+        "GB",
+        2.52
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        91.7
+       ],
+       [
+        "es",
+        2.03
+       ],
+       [
+        "fr",
+        1.04
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         41.5
+        ],
+        [
+         "Amis & famille",
+         27.5
+        ],
+        [
+         "Mode",
+         26.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         41.5
+        ],
+        [
+         "Friends & family",
+         27.5
+        ],
+        [
+         "Fashion",
+         26.7
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 7.68,
+      "male": 92.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        55.2
+       ],
+       [
+        "CA",
+        6.96
+       ],
+       [
+        "GB",
+        3.72
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        82.3
+       ],
+       [
+        "es",
+        5.9
+       ],
+       [
+        "pt",
+        1.4
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         57.6
+        ],
+        [
+         "Automobile",
+         32.8
+        ],
+        [
+         "Amis & famille",
+         27.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         57.6
+        ],
+        [
+         "Vehicles",
+         32.8
+        ],
+        [
+         "Friends & family",
+         27.8
+        ]
+       ]
+      }
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Humour",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Sports",
+     "Lifestyle"
+    ]
+   }
+  },
+  {
+   "country": "US",
+   "photo": "",
+   "id": "ryan-pownall",
+   "handle": "@itsryanpownall",
+   "instagram": "https://www.instagram.com/itsryanpownall/",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "name": "Ryan Pownall",
+   "verified": true,
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1100000,
+     "engagement": 1.34
+    }
+   ],
+   "engagement": 1.34,
+   "languages": [
+    "en"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 68.1,
+     "followers": {
+      "female": 67.3,
+      "male": 32.7,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "BR",
+        52.6
+       ],
+       [
+        "US",
+        25.7
+       ],
+       [
+        "CA",
+        10.2
+       ]
+      ],
+      "languages": [
+       [
+        "pt",
+        54.8
+       ],
+       [
+        "en",
+        39
+       ],
+       [
+        "es",
+        2.19
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         33.2
+        ],
+        [
+         "Amis & famille",
+         31
+        ],
+        [
+         "Mode",
+         30.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         33.2
+        ],
+        [
+         "Friends & family",
+         31
+        ],
+        [
+         "Fashion",
+         30.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 12.7,
+      "male": 87.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        37.8
+       ],
+       [
+        "IN",
+        9.56
+       ],
+       [
+        "ID",
+        4.75
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        70.8
+       ],
+       [
+        "es",
+        5.88
+       ],
+       [
+        "id",
+        2.69
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         54.5
+        ],
+        [
+         "Amis & famille",
+         35.6
+        ],
+        [
+         "Automobile",
+         31.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         54.5
+        ],
+        [
+         "Friends & family",
+         35.6
+        ],
+        [
+         "Vehicles",
+         31.8
+        ]
+       ]
+      }
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Humour",
+     "Divertissement",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Entertainment",
+     "Lifestyle"
+    ]
+   }
+  },
+  {
+   "country": "US",
+   "photo": "",
+   "id": "freezertarps",
+   "handle": "@freezertarps",
+   "instagram": "https://www.instagram.com/freezertarps/",
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "name": "Freezer Tarps",
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1060000,
+     "engagement": 0.78
+    }
+   ],
+   "engagement": 0.78,
+   "languages": [
+    "en"
+   ],
+   "audience": {
+    "instagram": {
+     "credibility": 91.1,
+     "followers": {
+      "female": 3.72,
+      "male": 96.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        92.7
+       ],
+       [
+        "CA",
+        3.84
+       ],
+       [
+        "GB",
+        0.42
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        99
+       ],
+       [
+        "es",
+        0.15
+       ],
+       [
+        "fr",
+        0.14
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         47.9
+        ],
+        [
+         "Automobile",
+         24.8
+        ],
+        [
+         "Amis & famille",
+         21.8
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         47.9
+        ],
+        [
+         "Vehicles",
+         24.8
+        ],
+        [
+         "Friends & family",
+         21.8
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 3.29,
+      "male": 96.7,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        85.7
+       ],
+       [
+        "CA",
+        9.54
+       ],
+       [
+        "GB",
+        0.84
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        98.9
+       ],
+       [
+        "es",
+        0.27
+       ],
+       [
+        "fr",
+        0.23
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         49.7
+        ],
+        [
+         "Amis & famille",
+         26.3
+        ],
+        [
+         "Automobile",
+         25
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         49.7
+        ],
+        [
+         "Friends & family",
+         26.3
+        ],
+        [
+         "Vehicles",
+         25
+        ]
+       ]
+      }
+     }
+    }
+   },
+   "categories": {
+    "fr": [
+     "Sport",
+     "Humour",
+     "Gaming"
+    ],
+    "en": [
+     "Sports",
+     "Comedy",
+     "Gaming"
+    ]
+   }
+  },
+  {
+   "id": "bigjohngolfs",
+   "handle": "@bigjohngolfs",
+   "instagram": "https://www.instagram.com/bigjohngolfs/",
+   "photo": "",
+   "name": "Big John Golfs",
+   "country": "US",
+   "verified": false,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 849000,
+     "engagement": 1.35
+    }
+   ],
+   "engagement": 1.35,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Golf",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Golf",
+     "Sports",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 88.5,
+     "followers": {
+      "female": 3.4,
+      "male": 96.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        82.8
+       ],
+       [
+        "CA",
+        6.37
+       ],
+       [
+        "GB",
+        2.71
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.9
+       ],
+       [
+        "es",
+        0.46
+       ],
+       [
+        "fr",
+        0.28
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         65.4
+        ],
+        [
+         "Amis & famille",
+         32
+        ],
+        [
+         "Automobile",
+         30.6
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         65.4
+        ],
+        [
+         "Friends & family",
+         32
+        ],
+        [
+         "Vehicles",
+         30.6
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 12.5,
+      "male": 87.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        81.5
+       ],
+       [
+        "CA",
+        6.27
+       ],
+       [
+        "GB",
+        2.68
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.4
+       ],
+       [
+        "es",
+        0.65
+       ],
+       [
+        "fr",
+        0.41
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         50.2
+        ],
+        [
+         "Amis & famille",
+         23.7
+        ],
+        [
+         "Automobile",
+         23.5
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         50.2
+        ],
+        [
+         "Friends & family",
+         23.7
+        ],
+        [
+         "Vehicles",
+         23.5
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "davarionjarvelle",
+   "handle": "@davarionjarvelle",
+   "instagram": "https://www.instagram.com/davarionjarvelle/",
+   "photo": "",
+   "name": "Davarion Jarvelle",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 687000,
+     "engagement": 1.73
+    }
+   ],
+   "engagement": 1.73,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Divertissement"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Entertainment"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 85.8,
+     "followers": {
+      "female": 57.4,
+      "male": 42.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        95.5
+       ],
+       [
+        "GB",
+        1.13
+       ],
+       [
+        "DE",
+        0.32
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        99.1
+       ],
+       [
+        "es",
+        0.42
+       ],
+       [
+        "fr",
+        0.21
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         43.1
+        ],
+        [
+         "Musique",
+         39.4
+        ],
+        [
+         "Amis & famille",
+         37.4
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         43.1
+        ],
+        [
+         "Music",
+         39.4
+        ],
+        [
+         "Friends & family",
+         37.4
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 21.3,
+      "male": 78.7,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        86.5
+       ],
+       [
+        "GB",
+        2.01
+       ],
+       [
+        "CA",
+        1.7
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.8
+       ],
+       [
+        "es",
+        0.73
+       ],
+       [
+        "fr",
+        0.3
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         54.5
+        ],
+        [
+         "Amis & famille",
+         35.7
+        ],
+        [
+         "TV & cinéma",
+         32.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         54.5
+        ],
+        [
+         "Friends & family",
+         35.7
+        ],
+        [
+         "TV & film",
+         32.7
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "k-showtime",
+   "handle": "@k_showtime",
+   "instagram": "https://www.instagram.com/k_showtime/",
+   "photo": "",
+   "name": "K Showtime",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 562000,
+     "engagement": 5.05
+    }
+   ],
+   "engagement": 5.05,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Basketball",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Basketball",
+     "Sports",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 78.1,
+     "followers": {
+      "female": 10.7,
+      "male": 89.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        66.1
+       ],
+       [
+        "CA",
+        18.2
+       ],
+       [
+        "GB",
+        1.59
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        94.8
+       ],
+       [
+        "es",
+        1.71
+       ],
+       [
+        "fr",
+        1.08
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         50.3
+        ],
+        [
+         "Mode",
+         26.3
+        ],
+        [
+         "Musique",
+         24.9
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         50.3
+        ],
+        [
+         "Fashion",
+         26.3
+        ],
+        [
+         "Music",
+         24.9
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 11,
+      "male": 89,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        30.4
+       ],
+       [
+        "ID",
+        18.2
+       ],
+       [
+        "CA",
+        7.52
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        66.8
+       ],
+       [
+        "id",
+        7.96
+       ],
+       [
+        "vi",
+        5.84
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         48.2
+        ],
+        [
+         "Mode",
+         29.7
+        ],
+        [
+         "Musique",
+         25
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         48.2
+        ],
+        [
+         "Fashion",
+         29.7
+        ],
+        [
+         "Music",
+         25
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "pierocgrieco",
+   "handle": "@pierocgrieco",
+   "instagram": "https://www.instagram.com/pierocgrieco/",
+   "photo": "",
+   "name": "Piero Grieco",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 538000,
+     "engagement": 4.25
+    }
+   ],
+   "engagement": 4.25,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Divertissement"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Entertainment"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 71.9,
+     "followers": {
+      "female": 18.8,
+      "male": 81.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        41.3
+       ],
+       [
+        "IN",
+        8.75
+       ],
+       [
+        "GB",
+        6.59
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        83.8
+       ],
+       [
+        "it",
+        2.36
+       ],
+       [
+        "es",
+        2.29
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "TV & cinéma",
+         30.2
+        ],
+        [
+         "Sport & fitness",
+         28.2
+        ],
+        [
+         "Art & design",
+         20.4
+        ]
+       ],
+       "en": [
+        [
+         "TV & film",
+         30.2
+        ],
+        [
+         "Sport & fitness",
+         28.2
+        ],
+        [
+         "Art & design",
+         20.4
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "vince-aesthetic",
+   "handle": "@vince_aesthetic",
+   "instagram": "https://www.instagram.com/vince_aesthetic/",
+   "photo": "",
+   "name": "Vince Iannone",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 519000,
+     "engagement": 9.51
+    }
+   ],
+   "engagement": 9.51,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Fitness",
+     "Lifestyle",
+     "Motivation"
+    ],
+    "en": [
+     "Fitness",
+     "Lifestyle",
+     "Motivation"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 78.4,
+     "followers": {
+      "female": 5.57,
+      "male": 94.43,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        61.4
+       ],
+       [
+        "GB",
+        6.2
+       ],
+       [
+        "CA",
+        3.48
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        87
+       ],
+       [
+        "es",
+        3.65
+       ],
+       [
+        "de",
+        1.34
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         68.2
+        ],
+        [
+         "Photo & vidéo",
+         20.6
+        ],
+        [
+         "Automobile",
+         19.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         68.2
+        ],
+        [
+         "Camera & photography",
+         20.6
+        ],
+        [
+         "Vehicles",
+         19.2
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 6.91,
+      "male": 93.09,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        55.1
+       ],
+       [
+        "GB",
+        6.11
+       ],
+       [
+        "CA",
+        4.93
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        82.5
+       ],
+       [
+        "de",
+        3.48
+       ],
+       [
+        "fr",
+        2.71
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         53.6
+        ],
+        [
+         "Automobile",
+         25.2
+        ],
+        [
+         "Amis & famille",
+         21.1
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         53.6
+        ],
+        [
+         "Vehicles",
+         25.2
+        ],
+        [
+         "Friends & family",
+         21.1
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "whiteboyem",
+   "handle": "@whiteboyem",
+   "instagram": "https://www.instagram.com/whiteboyem/",
+   "photo": "",
+   "name": "Whiteboyem",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 479000,
+     "engagement": 7.95
+    }
+   ],
+   "engagement": 7.95,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Musique"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Music"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 84.1,
+     "followers": {
+      "female": 47.6,
+      "male": 52.4,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        82.4
+       ],
+       [
+        "CA",
+        2.7
+       ],
+       [
+        "GB",
+        2.33
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        94.9
+       ],
+       [
+        "fr",
+        1.09
+       ],
+       [
+        "es",
+        0.64
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         27.5
+        ],
+        [
+         "Mode",
+         23.1
+        ],
+        [
+         "Musique",
+         18.9
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         27.5
+        ],
+        [
+         "Fashion",
+         23.1
+        ],
+        [
+         "Music",
+         18.9
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 42.8,
+      "male": 57.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        78.6
+       ],
+       [
+        "GB",
+        2.58
+       ],
+       [
+        "CA",
+        1.99
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        93.3
+       ],
+       [
+        "fr",
+        1.51
+       ],
+       [
+        "es",
+        1.24
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         33.4
+        ],
+        [
+         "Sport & fitness",
+         30.6
+        ],
+        [
+         "Musique",
+         19.6
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         33.4
+        ],
+        [
+         "Sport & fitness",
+         30.6
+        ],
+        [
+         "Music",
+         19.6
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "drhobs",
+   "handle": "@drhobs",
+   "instagram": "https://www.instagram.com/drhobs/",
+   "photo": "",
+   "name": "Dr Hobs",
+   "country": "CA",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 387000,
+     "engagement": 31.2
+    }
+   ],
+   "engagement": 31.2,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Famille",
+     "Food",
+     "Lifestyle"
+    ],
+    "en": [
+     "Family",
+     "Food",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 64.8,
+     "followers": {
+      "female": 28,
+      "male": 72,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        54.4
+       ],
+       [
+        "BR",
+        11
+       ],
+       [
+        "CA",
+        9.82
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        81.8
+       ],
+       [
+        "pt",
+        13.2
+       ],
+       [
+        "es",
+        1.2
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         35.2
+        ],
+        [
+         "Amis & famille",
+         24.5
+        ],
+        [
+         "Mode",
+         23
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         35.2
+        ],
+        [
+         "Friends & family",
+         24.5
+        ],
+        [
+         "Fashion",
+         23
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 72.2,
+      "male": 27.8,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "IN",
+        25.7
+       ],
+       [
+        "US",
+        11.5
+       ],
+       [
+        "IT",
+        5.99
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        76
+       ],
+       [
+        "it",
+        4.45
+       ],
+       [
+        "fr",
+        3.41
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Amis & famille",
+         42.7
+        ],
+        [
+         "Photo & vidéo",
+         41.1
+        ],
+        [
+         "Mode",
+         40
+        ]
+       ],
+       "en": [
+        [
+         "Friends & family",
+         42.7
+        ],
+        [
+         "Camera & photography",
+         41.1
+        ],
+        [
+         "Fashion",
+         40
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "johnlferguson",
+   "handle": "@johnlferguson",
+   "instagram": "https://www.instagram.com/johnlferguson/",
+   "photo": "",
+   "name": "John Ferguson",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 284000,
+     "engagement": 1.43
+    }
+   ],
+   "engagement": 1.43,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Sport",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Sports",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 74.7,
+     "followers": {
+      "female": 28.3,
+      "male": 71.7,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        56.3
+       ],
+       [
+        "CA",
+        6.84
+       ],
+       [
+        "ES",
+        3.28
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        79.3
+       ],
+       [
+        "es",
+        6.4
+       ],
+       [
+        "pt",
+        2.88
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         49.1
+        ],
+        [
+         "Amis & famille",
+         34.5
+        ],
+        [
+         "Automobile",
+         29.9
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         49.1
+        ],
+        [
+         "Friends & family",
+         34.5
+        ],
+        [
+         "Vehicles",
+         29.9
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 31.7,
+      "male": 68.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        43.3
+       ],
+       [
+        "CA",
+        18.8
+       ],
+       [
+        "GB",
+        3.52
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        79.3
+       ],
+       [
+        "es",
+        4.79
+       ],
+       [
+        "fr",
+        2.79
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         63.4
+        ],
+        [
+         "Amis & famille",
+         33.7
+        ],
+        [
+         "TV & cinéma",
+         31.1
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         63.4
+        ],
+        [
+         "Friends & family",
+         33.7
+        ],
+        [
+         "TV & film",
+         31.1
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "kevinhamdan",
+   "handle": "@kevinhamdan",
+   "instagram": "https://www.instagram.com/kevinhamdan/",
+   "photo": "",
+   "name": "Kevin Hamdan",
+   "country": "CA",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1100000,
+     "engagement": 0.45
+    },
+    {
+     "id": "tiktok",
+     "followers": 481000,
+     "engagement": 0.4,
+     "handle": "@kevinhamdan",
+     "url": "https://www.tiktok.com/@kevinhamdan"
+    }
+   ],
+   "engagement": 0.45,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Mentalisme",
+     "Divertissement",
+     "Lifestyle"
+    ],
+    "en": [
+     "Mentalism",
+     "Entertainment",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 89,
+     "followers": {
+      "female": 29.4,
+      "male": 70.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "CA",
+        71.1
+       ],
+       [
+        "US",
+        11.5
+       ],
+       [
+        "BR",
+        2.05
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        93.1
+       ],
+       [
+        "pt",
+        1.83
+       ],
+       [
+        "es",
+        1.69
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Musique",
+         40.6
+        ],
+        [
+         "Sport & fitness",
+         39.2
+        ],
+        [
+         "TV & cinéma",
+         33
+        ]
+       ],
+       "en": [
+        [
+         "Music",
+         40.6
+        ],
+        [
+         "Sport & fitness",
+         39.2
+        ],
+        [
+         "TV & film",
+         33
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 37.5,
+      "male": 62.5,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        54.5
+       ],
+       [
+        "CA",
+        8.43
+       ],
+       [
+        "ZA",
+        8.39
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        94.5
+       ],
+       [
+        "es",
+        1
+       ],
+       [
+        "nl",
+        0.73
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "luv-yves",
+   "handle": "@luv.yves",
+   "instagram": "https://www.instagram.com/luv.yves/",
+   "photo": "",
+   "name": "Yves",
+   "country": "CA",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 704000,
+     "engagement": 3.32
+    }
+   ],
+   "engagement": 3.32,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Mode",
+     "Lifestyle",
+     "Humour"
+    ],
+    "en": [
+     "Fashion",
+     "Lifestyle",
+     "Comedy"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 85.8,
+     "followers": {
+      "female": 69.2,
+      "male": 30.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        28.1
+       ],
+       [
+        "CA",
+        26.1
+       ],
+       [
+        "GB",
+        5.01
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        78.5
+       ],
+       [
+        "fa",
+        4.13
+       ],
+       [
+        "fr",
+        2.91
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Mode",
+         30.5
+        ],
+        [
+         "Sport & fitness",
+         25.3
+        ],
+        [
+         "Photo & vidéo",
+         20.3
+        ]
+       ],
+       "en": [
+        [
+         "Fashion",
+         30.5
+        ],
+        [
+         "Sport & fitness",
+         25.3
+        ],
+        [
+         "Camera & photography",
+         20.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 49,
+      "male": 51,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        18.9
+       ],
+       [
+        "CA",
+        15.9
+       ],
+       [
+        "RU",
+        9.07
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        68.5
+       ],
+       [
+        "ru",
+        11.7
+       ],
+       [
+        "fr",
+        2.52
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         29.6
+        ],
+        [
+         "Mode",
+         29.6
+        ],
+        [
+         "Musique",
+         22.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         29.6
+        ],
+        [
+         "Fashion",
+         29.6
+        ],
+        [
+         "Music",
+         22.2
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "neemanaz",
+   "handle": "@neemanaz",
+   "instagram": "https://www.instagram.com/neemanaz/",
+   "photo": "",
+   "name": "Neema Naz",
+   "country": "CA",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 499000,
+     "engagement": 1.99
+    }
+   ],
+   "engagement": 1.99,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Divertissement"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Entertainment"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 79,
+     "followers": {
+      "female": 45.7,
+      "male": 54.3,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "CA",
+        33.5
+       ],
+       [
+        "US",
+        22.6
+       ],
+       [
+        "IR",
+        19.8
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        75.1
+       ],
+       [
+        "fa",
+        19.6
+       ],
+       [
+        "de",
+        1.26
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         49.2
+        ],
+        [
+         "Amis & famille",
+         35.5
+        ],
+        [
+         "Musique",
+         32.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         49.2
+        ],
+        [
+         "Friends & family",
+         35.5
+        ],
+        [
+         "Music",
+         32.7
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "bilaldawson",
+   "handle": "@bilaldawson",
+   "instagram": "https://www.instagram.com/bilaldawson/",
+   "photo": "",
+   "name": "Bilal Dawson",
+   "country": "CA",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 640000,
+     "engagement": 5.21
+    }
+   ],
+   "engagement": 5.21,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Food",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Food",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 76.9,
+     "followers": {
+      "female": 38.8,
+      "male": 61.2,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "CA",
+        58.6
+       ],
+       [
+        "US",
+        19.1
+       ],
+       [
+        "GB",
+        1.64
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        93.4
+       ],
+       [
+        "es",
+        1.37
+       ],
+       [
+        "fr",
+        1.01
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         47.3
+        ],
+        [
+         "Mode",
+         38.6
+        ],
+        [
+         "Musique",
+         34.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         47.3
+        ],
+        [
+         "Fashion",
+         38.6
+        ],
+        [
+         "Music",
+         34.7
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 36.2,
+      "male": 63.8,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        44.3
+       ],
+       [
+        "IN",
+        12
+       ],
+       [
+        "CA",
+        6.52
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        85
+       ],
+       [
+        "de",
+        2.19
+       ],
+       [
+        "es",
+        1.95
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         37.7
+        ],
+        [
+         "TV & cinéma",
+         35
+        ],
+        [
+         "Restaurants & food",
+         33.7
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         37.7
+        ],
+        [
+         "TV & film",
+         35
+        ],
+        [
+         "Restaurants & food",
+         33.7
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "officialnamour",
+   "handle": "@officialnamour",
+   "instagram": "https://www.instagram.com/officialnamour/",
+   "photo": "",
+   "name": "Namour",
+   "country": "CA",
+   "verified": false,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 310000,
+     "engagement": 12.7
+    }
+   ],
+   "engagement": 12.7,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Divertissement"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Entertainment"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 49.5,
+     "followers": {
+      "female": 46.3,
+      "male": 53.7,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "CA",
+        68.5
+       ],
+       [
+        "US",
+        12.5
+       ],
+       [
+        "GB",
+        1.85
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        87.5
+       ],
+       [
+        "ar",
+        2.45
+       ],
+       [
+        "es",
+        2.22
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         38
+        ],
+        [
+         "Mode",
+         33
+        ],
+        [
+         "Musique",
+         31.4
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         38
+        ],
+        [
+         "Fashion",
+         33
+        ],
+        [
+         "Music",
+         31.4
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 21.4,
+      "male": 78.6,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "CA",
+        18.2
+       ],
+       [
+        "IN",
+        15.6
+       ],
+       [
+        "US",
+        14.5
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        76.8
+       ],
+       [
+        "id",
+        3.2
+       ],
+       [
+        "ar",
+        2.93
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         39.5
+        ],
+        [
+         "Photo & vidéo",
+         32.2
+        ],
+        [
+         "Mode",
+         32.1
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         39.5
+        ],
+        [
+         "Camera & photography",
+         32.2
+        ],
+        [
+         "Fashion",
+         32.1
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "notmarcanthony",
+   "handle": "@notmarcanthony",
+   "instagram": "https://www.instagram.com/notmarcanthony/",
+   "photo": "",
+   "name": "Marc Anthony",
+   "country": "CA",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 231000,
+     "engagement": 3.27
+    },
+    {
+     "id": "tiktok",
+     "followers": 94900,
+     "engagement": 6.44,
+     "handle": "@not_marcanthony",
+     "url": "https://www.tiktok.com/@not_marcanthony"
+    }
+   ],
+   "engagement": 3.27,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Food",
+     "Sport"
+    ],
+    "en": [
+     "Comedy",
+     "Food",
+     "Sports"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 84.4,
+     "followers": {
+      "female": 35.6,
+      "male": 64.4,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "CA",
+        74.7
+       ],
+       [
+        "US",
+        15.9
+       ],
+       [
+        "IT",
+        1.08
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.1
+       ],
+       [
+        "fa",
+        0.66
+       ],
+       [
+        "es",
+        0.63
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         64.3
+        ],
+        [
+         "Restaurants & food",
+         45.3
+        ],
+        [
+         "Amis & famille",
+         44.2
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         64.3
+        ],
+        [
+         "Restaurants & food",
+         45.3
+        ],
+        [
+         "Friends & family",
+         44.2
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 49.8,
+      "male": 50.2,
+      "agePeak": "25-34",
+      "countries": [
+       [
+        "US",
+        47.6
+       ],
+       [
+        "CA",
+        36.6
+       ],
+       [
+        "GB",
+        2.3
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        96
+       ],
+       [
+        "it",
+        0.69
+       ],
+       [
+        "es",
+        0.53
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         58.8
+        ],
+        [
+         "Amis & famille",
+         44.8
+        ],
+        [
+         "Restaurants & food",
+         43.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         58.8
+        ],
+        [
+         "Friends & family",
+         44.8
+        ],
+        [
+         "Restaurants & food",
+         43.3
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 55.5,
+      "male": 44.5,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "CA",
+        43.7
+       ],
+       [
+        "US",
+        39.4
+       ],
+       [
+        "AU",
+        6.01
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97
+       ],
+       [
+        "de",
+        0.52
+       ],
+       [
+        "fr",
+        0.43
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "babi",
+   "handle": "@babi_",
+   "instagram": "https://www.instagram.com/babi_/",
+   "photo": "",
+   "name": "Bárbara Passos",
+   "country": "BR",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 7140000,
+     "engagement": 0.33
+    }
+   ],
+   "engagement": 0.33,
+   "languages": [
+    "pt"
+   ],
+   "categories": {
+    "fr": [
+     "Gaming",
+     "Streaming",
+     "Lifestyle"
+    ],
+    "en": [
+     "Gaming",
+     "Streaming",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 80.7,
+     "followers": {
+      "female": 26.2,
+      "male": 73.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "BR",
+        97.3
+       ],
+       [
+        "US",
+        0.61
+       ],
+       [
+        "PT",
+        0.52
+       ]
+      ],
+      "languages": [
+       [
+        "pt",
+        96.2
+       ],
+       [
+        "en",
+        2.21
+       ],
+       [
+        "es",
+        0.52
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Gaming",
+         18.3
+        ],
+        [
+         "Sport & fitness",
+         17.8
+        ],
+        [
+         "Mode",
+         15.4
+        ]
+       ],
+       "en": [
+        [
+         "Gaming",
+         18.3
+        ],
+        [
+         "Sport & fitness",
+         17.8
+        ],
+        [
+         "Fashion",
+         15.4
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 47,
+      "male": 53,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "BR",
+        96.1
+       ],
+       [
+        "US",
+        0.77
+       ],
+       [
+        "PT",
+        0.43
+       ]
+      ],
+      "languages": [
+       [
+        "pt",
+        94.4
+       ],
+       [
+        "en",
+        2.91
+       ],
+       [
+        "es",
+        0.58
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         25.7
+        ],
+        [
+         "Amis & famille",
+         21.7
+        ],
+        [
+         "TV & cinéma",
+         17.4
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         25.7
+        ],
+        [
+         "Friends & family",
+         21.7
+        ],
+        [
+         "TV & film",
+         17.4
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "mewsttv",
+   "handle": "@mewsttv",
+   "instagram": "https://www.instagram.com/mewsttv/",
+   "photo": "",
+   "name": "Mews",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 569000,
+     "engagement": 3.95
+    },
+    {
+     "id": "tiktok",
+     "followers": 3200000,
+     "engagement": 0.78,
+     "handle": "@mews",
+     "url": "https://www.tiktok.com/@mews"
+    }
+   ],
+   "engagement": 3.95,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Gaming",
+     "Streaming",
+     "Anime"
+    ],
+    "en": [
+     "Gaming",
+     "Streaming",
+     "Anime"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 73.8,
+     "followers": {
+      "female": 18.3,
+      "male": 81.7,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        47.9
+       ],
+       [
+        "GB",
+        6.98
+       ],
+       [
+        "AU",
+        3.79
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        80.3
+       ],
+       [
+        "es",
+        5.4
+       ],
+       [
+        "fr",
+        2.55
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Gaming",
+         47.4
+        ],
+        [
+         "Sport & fitness",
+         24.6
+        ],
+        [
+         "TV & cinéma",
+         18.9
+        ]
+       ],
+       "en": [
+        [
+         "Gaming",
+         47.4
+        ],
+        [
+         "Sport & fitness",
+         24.6
+        ],
+        [
+         "TV & film",
+         18.9
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 12.7,
+      "male": 87.3,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        50.9
+       ],
+       [
+        "IN",
+        7.18
+       ],
+       [
+        "ID",
+        4.32
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        79.2
+       ],
+       [
+        "es",
+        3.98
+       ],
+       [
+        "pt",
+        2.17
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         43.9
+        ],
+        [
+         "TV & cinéma",
+         38
+        ],
+        [
+         "Musique",
+         24.3
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         43.9
+        ],
+        [
+         "TV & film",
+         38
+        ],
+        [
+         "Music",
+         24.3
+        ]
+       ]
+      }
+     }
+    },
+    "tiktok": {
+     "followers": {
+      "female": 18.8,
+      "male": 81.2,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        53.5
+       ],
+       [
+        "GB",
+        14.4
+       ],
+       [
+        "CA",
+        4.29
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        88.2
+       ],
+       [
+        "de",
+        2.38
+       ],
+       [
+        "es",
+        1.84
+       ]
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "theemyanicole",
+   "handle": "@theemyanicole",
+   "instagram": "https://www.instagram.com/theemyanicole/",
+   "photo": "",
+   "name": "Mya Nicole",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 1940000,
+     "engagement": 5.01
+    }
+   ],
+   "engagement": 5.01,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Lifestyle",
+     "Divertissement"
+    ],
+    "en": [
+     "Comedy",
+     "Lifestyle",
+     "Entertainment"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 78,
+     "followers": {
+      "female": 62.2,
+      "male": 37.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        84.9
+       ],
+       [
+        "IN",
+        1.18
+       ],
+       [
+        "NG",
+        1.18
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        96.1
+       ],
+       [
+        "fr",
+        1.09
+       ],
+       [
+        "pt",
+        0.67
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Art & design",
+         21.4
+        ],
+        [
+         "Amis & famille",
+         19.8
+        ],
+        [
+         "Sport & fitness",
+         19.3
+        ]
+       ],
+       "en": [
+        [
+         "Art & design",
+         21.4
+        ],
+        [
+         "Friends & family",
+         19.8
+        ],
+        [
+         "Sport & fitness",
+         19.3
+        ]
+       ]
+      }
+     },
+     "engaged": {
+      "female": 85.2,
+      "male": 14.8,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        89.9
+       ],
+       [
+        "CA",
+        1.15
+       ],
+       [
+        "GB",
+        1.01
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        97.5
+       ],
+       [
+        "fr",
+        1.45
+       ],
+       [
+        "pt",
+        0.23
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Art & design",
+         45.9
+        ],
+        [
+         "Mode",
+         25.7
+        ],
+        [
+         "Amis & famille",
+         22.3
+        ]
+       ],
+       "en": [
+        [
+         "Art & design",
+         45.9
+        ],
+        [
+         "Fashion",
+         25.7
+        ],
+        [
+         "Friends & family",
+         22.3
+        ]
+       ]
+      }
+     }
+    }
+   }
+  },
+  {
+   "id": "silky-durag",
+   "handle": "@silky.durag",
+   "instagram": "https://www.instagram.com/silky.durag/",
+   "photo": "",
+   "name": "Silky",
+   "country": "US",
+   "verified": true,
+   "sectors": [
+    "ecommerce",
+    "hospitality",
+    "crypto-fintech"
+   ],
+   "platforms": [
+    {
+     "id": "instagram",
+     "followers": 325000,
+     "engagement": 8.41
+    }
+   ],
+   "engagement": 8.41,
+   "languages": [
+    "en"
+   ],
+   "categories": {
+    "fr": [
+     "Humour",
+     "Musique",
+     "Lifestyle"
+    ],
+    "en": [
+     "Comedy",
+     "Music",
+     "Lifestyle"
+    ]
+   },
+   "audience": {
+    "instagram": {
+     "credibility": 75.5,
+     "followers": {
+      "female": 14.4,
+      "male": 85.6,
+      "agePeak": "18-24",
+      "countries": [
+       [
+        "US",
+        80
+       ],
+       [
+        "CA",
+        3.36
+       ],
+       [
+        "GB",
+        2.7
+       ]
+      ],
+      "languages": [
+       [
+        "en",
+        96.3
+       ],
+       [
+        "es",
+        0.6
+       ],
+       [
+        "fr",
+        0.51
+       ]
+      ],
+      "interests": {
+       "fr": [
+        [
+         "Sport & fitness",
+         31.1
+        ],
+        [
+         "Mode",
+         23
+        ],
+        [
+         "Musique",
+         21
+        ]
+       ],
+       "en": [
+        [
+         "Sport & fitness",
+         31.1
+        ],
+        [
+         "Fashion",
+         23
+        ],
+        [
+         "Music",
+         21
+        ]
+       ]
+      }
+     }
+    }
+   }
+  }
+ ]
+}
